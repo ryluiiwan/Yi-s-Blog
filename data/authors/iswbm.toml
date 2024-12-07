@@ -1,0 +1,13 @@
+url = "https://iswbm.com"
+
+[name]
+display = "iswbm"
+
+[image]
+url = "images/avatar.jpg"
+
+[zh]
+description = "云计算 & 容器 & 前后端研发工程师。喜欢探索新技术，空闲时也折腾 Logseq 等效率工具。 可以在 [GitHub](https://github.com/iswbm) 关注我了解更多，也可以加我微信（stromwbm） 与我交流。"
+
+[en]
+description = "Cloud Computing & Container & Front-end & Back-end R&D Engineer. I like to explore new technologies, and in my spare time, I also play around with Logseq and other efficiency tools. You can follow me on [GitHub](https://github.com/iswbm) to learn more, or add me on WeChat (stromwbm) to communicate with me."
