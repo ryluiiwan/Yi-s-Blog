@@ -2,7 +2,7 @@
 # ---- General Settings --------------- #
 # ------------------------------------- #
 baseURL = "https://ryluiiwan.com"
-title = "ryluiiwan"
+title = "Ryluiiwan"
 theme = "hugo-theme-den"
 #enableRobotsTXT = true       # generate robots.txt
 enableEmoji = true           # use emoji support
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = true
   pages = "/:slug/"
 
 [author]                     # required
-  name = "ryluiiwan"
+  name = "Nuoyi Lu"
 
 [sitemap]                    # required
   changefreq = "weekly"
@@ -56,11 +56,11 @@ defaultContentLanguageInSubdir = true
   rssFullContent = true      # set true to use full content instead of summary
 
   # site info (optional)
-  keywords = ["programming","python", "golang", "blog", "k8s", "docker", "openstack"]
-  description = "A simple theme for Hugo"
+  keywords = ["marketing","programming","python", "blog"]
+  description = "做一只勇敢的羊"
   logoTitle = "RYLUIIWAN" # shown on top-left, default: title
-  siteLogoImage = "images/background.jpg"     # shown besides logoTitle
-  # headerTitle = "ryluiiwan"                   # default: title
+  siteLogoImage = "images/icon.jpg"     # shown besides logoTitle
+  # headerTitle = "Ryluiiwan"                   # default: title
   headerImage = "images/background.png"
   showAuthorCard = true # Whether to show author information below the article
 
@@ -79,7 +79,7 @@ defaultContentLanguageInSubdir = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
+  customCSS = ['custom.css']             # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
 
 # ------------------------------------- #
@@ -115,31 +115,31 @@ defaultContentLanguageInSubdir = true
   weight = 1
 
   [languages.en.params]
-    description = "A simple layout"
+    description = "Be better"
 
   [[languages.en.menu.main]]
-    name = "Notes"
+    name = "thinking"
     weight = 10
-    identifier = "notes"
-    url = "category/notes/"
+    identifier = "thinking"
+    url = "category/thinking/"
 
   [[languages.en.menu.social]]
     name = "GitHub"
     weight = 10
     identifier = "github"
-    url = "https://github.com/iswbm"
+    url = "https://github.com/ryluiiwan"
 
   [[languages.en.menu.main]]
-    name = "Demos"
+    name = "learning"
     weight = 20
-    identifier = "demos"
-    url = "category/demos/"
+    identifier = "learning"
+    url = "category/learning/"
 
   [[languages.en.menu.links]]
     name = "About Me"
     weight = 10
     identifier = "about-me"
-    url = "https://github.com/iswbm"
+    url = "https://github.com/ryluiiwan"
 
 [languages.zh]
   languageCode = "zh"
@@ -148,28 +148,41 @@ defaultContentLanguageInSubdir = true
   weight = 2
 
   [languages.zh.params]
-    description = "一个简单的布局。"
+    description = "做一只勇敢的羊"
 
   [[languages.zh.menu.main]]
-    name = "笔记"
+    name = "思考"
     weight = 10
-    identifier = "notes"
-    url = "category/notes/"
+    identifier = "thinking"
+    url = "category/thinking/"
 
   [[languages.zh.menu.main]]
-    name = "展示"
+    name = "工具"
     weight = 20
-    identifier = "demos"
-    url = "category/demos/"
+    identifier = "tools"
+    url = "category/tools/"
+
+  [[languages.zh.menu.main]]
+    name = "学习"
+    weight = 20
+    identifier = "learning"
+    url = "category/learning"
+
 
   [[languages.zh.menu.social]]
-    name = "GitHub"
+    name = "instagram"
     weight = 10
-    identifier = "github"
-    url = "https://github.com/iswbm"
+    identifier = "instagram"
+    url = "https://www.instagram.com/oyeahshalala/"
+  
+[[languages.zh.menu.social]]
+  name = "Twitter"
+  weight = 10
+  identifier = "Twitter"
+  url ="https://x.com/Lunuoyi"
 
   [[languages.zh.menu.links]]
     name = "关于我"
     weight = 10
     identifier = "about-me"
-    url = "https://github.com/iswbm"
+    url = "https://github.com/ryluiiwan"

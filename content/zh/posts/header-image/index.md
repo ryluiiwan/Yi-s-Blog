@@ -6,10 +6,10 @@ draft: false
 tags: ["images"]
 categories: ["Demos"]
 authors:
-- "iswbm"
+  - "Nuoyi Lu"
 resources:
-- name: header
-  src: 'header.jpg'
+  - name: header
+    src: "header.jpg"
 ---
 
 这是一个简单的图片。

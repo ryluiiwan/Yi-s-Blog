@@ -1,10 +1,10 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-date: {{ .Date }}
+date: { { .Date } }
 draft: true
-lastmod: {{ .Date }}
-tags: ["python"]
-categories: ["Programming"]
+lastmod: { { .Date } }
+tags: ["Blog"]
+categories: ["thinking"]
 authors:
-- "iswbm"
+  - "Nuoyi Lu"
 ---

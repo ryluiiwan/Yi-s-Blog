@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinking on Ryluiiwan</title>
+    <link>http://localhost:1313/zh/category/thinking/</link>
+    <description>Recent content in Thinking on Ryluiiwan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:11:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/category/thinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在11月，开始了我的24岁</title>
+      <link>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</guid>
+      <description>上个月的 8 号是我 24 岁的生日，我甚至都没有什么感觉，也没有什么仪式感去庆祝生日。甚至连我妈也忘了我的生日，年龄对我来说就是一个数字，我可以继续</description>
+    </item>
+  </channel>
+</rss>

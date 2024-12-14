@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ryluiiwan</title>
+    <link>http://localhost:1313/zh/posts/</link>
+    <description>Recent content in Posts on Ryluiiwan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:11:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo搭建个人博客</title>
+      <link>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还</description>
+    </item>
+    <item>
+      <title>在11月，开始了我的24岁</title>
+      <link>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</guid>
+      <description>上个月的 8 号是我 24 岁的生日，我甚至都没有什么感觉，也没有什么仪式感去庆祝生日。甚至连我妈也忘了我的生日，年龄对我来说就是一个数字，我可以继续</description>
+    </item>
+    <item>
+      <title>头部图片</title>
+      <link>http://localhost:1313/zh/2018/03/05/%E5%A4%B4%E9%83%A8%E5%9B%BE%E7%89%87/</link>
+      <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2018/03/05/%E5%A4%B4%E9%83%A8%E5%9B%BE%E7%89%87/</guid>
+      <description>这是一个简单的图片。</description>
+    </item>
+    <item>
+      <title>笔记 2</title>
+      <link>http://localhost:1313/zh/2018/03/04/%E7%AC%94%E8%AE%B0-2/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2018/03/04/%E7%AC%94%E8%AE%B0-2/</guid>
+      <description>這是一个简单的笔记。</description>
+    </item>
+    <item>
+      <title>笔记 1</title>
+      <link>http://localhost:1313/zh/2018/03/03/%E7%AC%94%E8%AE%B0-1/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2018/03/03/%E7%AC%94%E8%AE%B0-1/</guid>
+      <description>這是一个简单的笔记。</description>
+    </item>
+  </channel>
+</rss>

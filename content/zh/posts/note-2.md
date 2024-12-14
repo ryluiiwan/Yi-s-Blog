@@ -6,7 +6,7 @@ draft: false
 tags: ["notes"]
 categories: ["Notes"]
 authors:
-- "iswbm"
+  - "Nuoyi Lu"
 ---
 
 這是一个简单的笔记。

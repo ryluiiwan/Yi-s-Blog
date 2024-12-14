@@ -1,0 +1,12 @@
+url = "https://ryluiiwan.com"
+
+[name]
+display = "Nuoyi Lu"
+
+[image]
+url = "images/head.png"
+
+[zh]
+description = "本人是遵纪守法好公民，最喜欢的颜色是绿色，喜欢吃冰淇淋，也喜欢分享知识，但我脑子有点空，还在不断模仿学习阅读中，相互碰撞才会产生创新，所以你也有什么好玩的想法请联系我: )"
+[en]
+description = "If there're anything you think it's helpful, feel free to reach out"

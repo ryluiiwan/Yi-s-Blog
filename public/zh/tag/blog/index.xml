@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ryluiiwan</title>
+    <link>http://localhost:1313/zh/tag/blog/</link>
+    <description>Recent content in Blog on Ryluiiwan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:11:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo搭建个人博客</title>
+      <link>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还</description>
+    </item>
+    <item>
+      <title>在11月，开始了我的24岁</title>
+      <link>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</guid>
+      <description>上个月的 8 号是我 24 岁的生日，我甚至都没有什么感觉，也没有什么仪式感去庆祝生日。甚至连我妈也忘了我的生日，年龄对我来说就是一个数字，我可以继续</description>
+    </item>
+  </channel>
+</rss>

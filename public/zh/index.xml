@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ryluiiwan</title>
+    <link>http://localhost:1313/zh/</link>
+    <description>Recent content on Ryluiiwan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:11:08 +0800</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/zh/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/about/</guid>
+      <description>👉 这里是 ryluiiwan 前海外 Kol 推广(臭卖货的)，想学习一些 Digital Marketing 的技能和知识(目前是这样的想法)，然后转行。本科是念的数据科学与大数据技术，略懂一些编程基</description>
+      <content:encoded><![CDATA[<h2 id="-这里是-ryluiiwanhttplocalhost1313zh">👉 这里是 <a href="http://localhost:1313/zh">ryluiiwan</a></h2>
+<p>前海外 Kol 推广(臭卖货的)，想学习一些 Digital Marketing 的技能和知识(目前是这样的想法)，然后转行。本科是念的数据科学与大数据技术，略懂一些编程基础和一点点数据分析思路，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。</p>
+<p>希望可以成为一个内心强大的人。</p>
+<h2 id="-许愿池">🥂 许愿池</h2>
+<p><strong><em>个人生活</em></strong>，希望可以同时拥有稳健的身体和平和的内心，要活很久(并且希望这不是梦)</p>
+<p><strong><em>职业发展</em></strong>，做一些有用的事(对我对他人)，相互成就共赢是我认为在社会关系里最好的的原则，在某个领域里面持续深耕成为 specialist，then pay for myself</p>
+<h2 id="2024-年读过">✍2024 年读过</h2>
+<ul>
+<li><a href="https://book.douban.com/subject/36132802/">不原谅也没关系</a></li>
+<li><a href="https://book.douban.com/subject/36096300/">鱼不存在</a></li>
+<li><a href="https://book.douban.com/subject/35627242/">我们内心的冲突</a></li>
+<li><a href="https://book.douban.com/subject/36084340/">命运</a></li>
+<li><a href="https://book.douban.com/subject/27127895/">明朝那些事儿(增补版)(套装共 9 册)</a></li>
+<li><a href="https://book.douban.com/subject/10345553/">为了 N</a></li>
+<li><a href="https://book.douban.com/subject/26425831/">斯通纳</a></li>
+<li><a href="https://book.douban.com/subject/36018994/">聪明人的个人成长</a></li>
+<li><a href="https://book.douban.com/subject/36104107/">长安的荔枝</a></li>
+<li><a href="https://book.douban.com/subject/36316908/">梨子小姐与自己相处</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Hugo搭建个人博客</title>
+      <link>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还</description>
+      <content:encoded><![CDATA[<p>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。</p>
+<p>这次也想看看我能不能把这件事，从头到尾做完，并不断完善。准备开始折腾，顺便捡起本科的渣渣编程基础。有天在搜索 Hugo 的时候突然看到了<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">pseudoyu</a>大佬做的博客，故按照他的教程来搞一个静态的博客，做一个自己的网络自留地。</p>
+<h1 id="1-安装-hugo">1. 安装 Hugo</h1>
+<p>我的电脑是 <code>windows</code> 系统，比 Mac os 安装起来麻烦一点点。
+Windows 系统下载安装</p>
+<h2 id="1下载-hugo">(1)下载 Hugo</h2>
+<ul>
+<li>打开 <a href="https://github.com/gohugoio/hugo/releases">Hugo 官方 GitHub Release 页面</a>。</li>
+<li>找到最新版本，下载适合 Windows 的二进制文件：
+<ul>
+<li>如果你的 Windows 是 64 位，选择 <code>hugo_extended_x.y.z_Windows-64bit.zip</code>（<code>x.y.z</code> 是版本号）</li>
+<li>如果不需要扩展功能（如 SCSS 支持），也可以选择普通的 <code>hugo_x.y.z_Windows-64bit.zip</code></li>
+</ul>
+</li>
+</ul>
+<h2 id="2解压文件">(2)解压文件</h2>
+<ul>
+<li>将下载的 ZIP 文件解压到一个文件夹，例如 <code>D:\hugo</code></li>
+<li>你应该能在<code>bin</code>文件夹中看到一个 <code>hugo.exe</code> 文件</li>
+</ul>
+<h2 id="3配置环境变量">(3)配置环境变量</h2>
+<ul>
+<li><strong>打开系统环境变量设置：</strong>
+<ul>
+<li>在搜索栏中输入 <strong>“环境变量”</strong>，选择 <strong>“编辑系统环境变量”</strong></li>
+<li>点击 <strong>“环境变量”</strong> 按钮</li>
+</ul>
+</li>
+<li><strong>添加 Hugo 到 PATH：</strong>
+<ul>
+<li>在 <strong>系统变量</strong> 下找到 <code>Path</code>，选中后点击 <strong>编辑</strong></li>
+<li>点击 <strong>新建</strong>，输入 Hugo 的路径，例如：<code>D:\hugo\bin</code></li>
+<li>点击 <strong>确定</strong>，保存所有设置</li>
+</ul>
+</li>
+</ul>
+<h2 id="4验证安装">(4)验证安装</h2>
+<ul>
+<li>打开命令提示符（<code>cmd</code>），输入以下命令：</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">hugo version
+</span></span></code></pre></div><ul>
+<li>如果安装成功，你会看到类似下面的输出：</li>
+</ul>
+<pre tabindex="0"><code>hugo v0.128.2-de36c1a95d28595d8243fd8b891665b069ed0850+extended windows/amd64 BuildDate=2024-07-04T08:13:25Z VendorInfo=gohugoio
+</code></pre><h2 id="5初始化站点">(5)初始化站点</h2>
+<ul>
+<li>创建新项目</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">hugo new site ryluiiwan.com
+</span></span></code></pre></div><ul>
+<li>进入项目目录</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="nb">cd</span> ryluiiwan.com
+</span></span></code></pre></div><h2 id="6初始化-git-仓库">(6)初始化 git 仓库</h2>
+<ul>
+<li>初始化一个新的 git 仓库</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git init
+</span></span></code></pre></div><ul>
+<li>将<strong>工作区中所有的更改</strong>添加到暂存区（Staging Area）。它的作用是准备这些更改以便后续使用 <code>git commit</code> 提交到本地仓库</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git add -A
+</span></span></code></pre></div><ul>
+<li>提交你在暂存区中的更改到本地仓库，并为这个提交添加一条描述信息</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git commit -m <span class="s2">&#34;first commit&#34;</span>
+</span></span></code></pre></div><ul>
+<li><strong>重命名当前分支</strong>为 <code>main</code>,</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git branch -M main
+</span></span></code></pre></div><ul>
+<li>将远程仓库关联到本地仓库</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git remote add origin git@github.com:ryluiiwan/ryluiiwan.com.git
+</span></span></code></pre></div>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>在11月，开始了我的24岁</title>
+      <link>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</link>
+      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</guid>
+      <description>上个月的 8 号是我 24 岁的生日，我甚至都没有什么感觉，也没有什么仪式感去庆祝生日。甚至连我妈也忘了我的生日，年龄对我来说就是一个数字，我可以继续</description>
+      <content:encoded><![CDATA[<p>上个月的 8 号是我 24 岁的生日，我甚至都没有什么感觉，也没有什么仪式感去庆祝生日。甚至连我妈也忘了我的生日，年龄对我来说就是一个数字，我可以继续吃冰淇淋、踩水坑、观察超市里面的小螃蟹、发现一些可爱的小玩意儿，做一些小学生做的事情。长大可能就是允许自己得到双份快乐，大人的快乐和小孩的快乐全都要。</p>
+<p>今年也没有什么具体的愿望，就尽情地活在此刻、体验、感受。</p>
+<h2 id="1-24-岁去体验感受一切美好的事物">1. 24 岁，去体验，感受一切美好的事物</h2>
+<p>在上个月看了一个蛮有意思的日剧叫做<a href="https://movie.douban.com/subject/30291583/">我们由奇迹构成 僕らは奇跡でできている (2018)</a>，给了我很大的启发。男主是一个讲动物行为学的大学老师，在课堂上他会留下“龟兔赛跑中为什么乌龟没有叫醒睡着了的兔子”、“斑马为什么是条纹色的”等等问题，等到学生们问他的时候，他总是回答“我也不知道”。突然想到其实很多问题都是没有标准答案的，也没有绝对地对与错，在从小高强度的应试教育下，我甚至都丧失了这可以去思考发散的想象力，对这个世界上的其他生命没有好奇心也没有探索欲。于是在一个偶然醒来的早晨，认真地听了楼下好几种不同的鸟叫声，观察我们附近的一些微小的事物，真的能让人很轻松地从人类社会制定下的规则框架里面短暂地跳脱出来，进入一个更广阔的世界。</p>
+<p>看了一些访谈和听了一些播客，大家都在强调做自己，这个很宽泛的概念，活着一定要做一些自己喜欢的事情，可是“我们应该如何才能成为自己呢”。我喜欢做的事情就是什么也不做，那这是世俗意义上的“做自己”吗。大家都在追求有用、有价值，那做一些没用的、没有价值的事情是一种浪费吗。被语言定义的这个规则框架里，感觉真的限制了太多的事情，它们会给人下定义、划分等级阶层、有一套什么是有意义什么是有价值的规则。但我感觉我们活着就是存在本身，从出生到现在就一直在做自己，没能找到自己喜欢做的事情、没有找到自己的天赋或兴趣，也没什么大不了的，活着就是很厉害的存在了。</p>
+<p>我时常觉得自己是个奇怪的人，不能理解人类世界里面的很多规则，游离在人群之外。咨询师告诉我，这也是我的一部分啊，尊重保持自己的特别。以前真的弄不懂什么才能叫真正地“爱自己”，听到那句话的时候，我觉得爱自己就是先接受自己的全部，接受自己不是那么的聪明、接受自己的奇奇怪怪、接受自己的平庸、接受自己的不完美，不要再苛责自己。在自己难过的时候，抱抱自己，安慰自己说：你已经很棒了，无论你做什么，我都会无条件地支持你，我永远都会是你最好的朋友。这一年读了一些心理学的书籍和做了几次心理咨询，倒是让我能越来越温柔地对待自己，以前总是苦于纠结我好像长这么大没有最好的朋友，我总是一个人，一个人去看电影、一个人去医院、一个人几乎做所有事，但我总是可以和自己相处地很好，所以决定我自己就是我最好的朋友。</p>
+<p>关于体验和感受，这一点感触还比较深，很多时候在做一件事情前或者要去买一个东西的时候，我会先去寻求网络或者现实生活中其他人的体验和建议，然后再决定自己要不要去做这件事或者买这件物品，大多数情况都是劝退，所以我也最后没有尝试去做，导致其实我缺失了自己的体验和感受。前人的经验固然重要，但我们只有先去做了，拥有了自己的体验之后，才会知道这适不适合自己。所以，大胆地去体验、感受一切感兴趣的事情。</p>
+<h2 id="2-一期一会">2. 一期一会</h2>
+<p>“一期一会”是源自日本茶道里面的理念，最初用于茶道，提醒主人和客人珍视每一次茶会，因为每一场茶会的时间、场景、参与者都不可复制。更深层的意义解释为我们每次相遇都是独一无二的，可能再也不会重现，因此要用心对待和珍惜。</p>
+<p>人生如一期一会。在这趟属于自己的人生列车上，有人突然上车、也有人到中途下车，这趟列车还是不断地向前行驶，窗户外的风景和人一排一排地飞速跑到身后去，山一程、水一程，遥遥江水向东流。</p>
+<p>珍惜人与人之间的每次相遇。</p>
+<h2 id="3-这个世界是个巨大的圆圈">3. 这个世界是个巨大的圆圈</h2>
+<p>这一节实在不知道还要写点什么，翻到了 11 月某天自己写的日记。在那一天自己一个人去散步，去探索自己从未走过的路，越往前走越迷惘，以为自己要迷路了，根本分不清东南西北。但我还是依然往前走，没想到走到了原来来过但不熟的地段，于是就顺便走了走逛了下，买了几包 QQ 糖回家了哈哈哈。</p>
+<p>还蛮喜欢漫无目的地随便走走，有的时候会发现一些意外之喜。之前一个人的旅行，也是应用这个策略，随便走走以为自己迷路绕不出去了，但是却看到了别样的风景：在垃圾桶附近飞来飞去的蝴蝶、在暖洋洋的阳光下晒太阳的眼神很凶的狸花猫、巨大无比的仙人掌、以前从未见过的房屋建筑，不依靠地图、不抱有任何目的性的随便走走也让我走到了攻略上的景点，毕竟这个世界是个巨大的圆圈。总之，这对我来说是个不错的旅行体验，以后应该也会继续这样做。</p>
+<p>所以，或许，不管怎么走，只要一直向前走，命运都会带我们走向我们该去的河流。</p>
+<p>胡言乱语这么多，可能也没什么逻辑在里面，也不知道会不会有人看到这些我脑子里面的东西。</p>
+<p>祝大家都身体健康、幸福地生活。</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>头部图片</title>
+      <link>http://localhost:1313/zh/2018/03/05/%E5%A4%B4%E9%83%A8%E5%9B%BE%E7%89%87/</link>
+      <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/2018/03/05/%E5%A4%B4%E9%83%A8%E5%9B%BE%E7%89%87/</guid>
+      <description>这是一个简单的图片。</description>
+      <content:encoded><![CDATA[<p>这是一个简单的图片。</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>笔记 2</title>
+      <link>http://localhost:1313/zh/2018/03/04/%E7%AC%94%E8%AE%B0-2/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/2018/03/04/%E7%AC%94%E8%AE%B0-2/</guid>
+      <description>這是一个简单的笔记。</description>
+      <content:encoded><![CDATA[<p>這是一个简单的笔记。</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>笔记 1</title>
+      <link>http://localhost:1313/zh/2018/03/03/%E7%AC%94%E8%AE%B0-1/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/2018/03/03/%E7%AC%94%E8%AE%B0-1/</guid>
+      <description>這是一个简单的笔记。</description>
+      <content:encoded><![CDATA[<p>這是一个简单的笔记。</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
