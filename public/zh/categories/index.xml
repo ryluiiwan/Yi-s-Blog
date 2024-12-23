@@ -6,12 +6,12 @@
     <description>Recent content in Categories on Ryluiiwan</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 07 Dec 2024 12:11:08 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 17:07:52 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking</title>
       <link>http://localhost:1313/zh/category/thinking/</link>
-      <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
+      <pubDate>Sun, 22 Dec 2024 17:07:52 +0800</pubDate>
       <guid>http://localhost:1313/zh/category/thinking/</guid>
       <description></description>
     </item>
@@ -20,20 +20,6 @@
       <link>http://localhost:1313/zh/category/tools/</link>
       <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
       <guid>http://localhost:1313/zh/category/tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Demos</title>
-      <link>http://localhost:1313/zh/category/demos/</link>
-      <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>http://localhost:1313/zh/category/demos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>http://localhost:1313/zh/category/notes/</link>
-      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      <guid>http://localhost:1313/zh/category/notes/</guid>
       <description></description>
     </item>
   </channel>

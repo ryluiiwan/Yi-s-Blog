@@ -10,14 +10,49 @@
   
   <url>
     <loc>http://localhost:1313/zh/tag/blog/</loc>
-    <lastmod>2024-12-07T12:11:08+08:00</lastmod>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/2024/12/22/blog-2/</loc>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/categories/</loc>
-    <lastmod>2024-12-07T12:11:08+08:00</lastmod>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/posts/</loc>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/</loc>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/tags/</loc>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/category/thinking/</loc>
+    <lastmod>2024-12-22T17:07:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -37,34 +72,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/zh/posts/</loc>
-    <lastmod>2024-12-07T12:11:08+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/</loc>
-    <lastmod>2024-12-07T12:11:08+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/tags/</loc>
-    <lastmod>2024-12-07T12:11:08+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/category/thinking/</loc>
-    <lastmod>2024-12-07T12:11:08+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/zh/category/tools/</loc>
     <lastmod>2024-12-07T12:11:08+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,55 +81,6 @@
   <url>
     <loc>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</loc>
     <lastmod>2024-12-07T12:11:08+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/category/demos/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/tag/images/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/2018/03/05/%E5%A4%B4%E9%83%A8%E5%9B%BE%E7%89%87/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/tag/notes/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/category/notes/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/2018/03/04/%E7%AC%94%E8%AE%B0-2/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/2018/03/03/%E7%AC%94%E8%AE%B0-1/</loc>
-    <lastmod>2018-03-03T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
