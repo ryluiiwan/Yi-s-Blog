@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = true
   url ="https://x.com/Lunuoyi"
 
   [[languages.zh.menu.links]]
-    name = "关于我"
+    name = "Yi's GitHub"
     weight = 10
     identifier = "about-me"
     url = "https://github.com/ryluiiwan"

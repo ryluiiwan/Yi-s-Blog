@@ -58,3 +58,11 @@ authors:
 - [My Obsidian Setup: The King of Note Taking Apps](https://www.youtube.com/watch?v=xR5-0XDkwU0&t)
 - [how I would learn Digital Marketing in 2025 ](https://www.youtube.com/watch?v=fxnVADG7H7w)
 - [📚2小时实时学习 / calm piano / 日落东京塔 / 番茄时钟(25+5) / STUDY WITH ME 🗼](https://www.youtube.com/watch?v=MPTBT4-r4Fs&t=2881s&ab_channel=AbaoinTokyo)
+
+### 🎧播客：小宇宙/苹果播客
+
+- [E37 鱼不存在](https://www.xiaoyuzhoufm.com/episode/6720836fbad346ebe6399017)
+- [S5E8 鲁豫对话张春 | 要活得很久，我做了这个决定](https://www.xiaoyuzhoufm.com/episode/663ac13e13426298925c9853)
+- [S5E1 鲁豫对话詹青云 | 相信日复一日的努力，是金斯伯格教会我的事](https://www.xiaoyuzhoufm.com/episode/65f0ed0179f1b490bfb042a5)
+- [vol.03 拥有真正的能量 讨论如何成为自己](https://www.xiaoyuzhoufm.com/episode/65f86f2c67649570791b3b74)
+- [vol.04 有问必答：一些底层焦虑问题的解法](https://www.xiaoyuzhoufm.com/episode/660b4d8f2d9eae5d0a7ad4a0)
