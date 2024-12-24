@@ -59,9 +59,9 @@ defaultContentLanguageInSubdir = true
   keywords = ["marketing","programming","python", "blog"]
   description = "做一只勇敢的羊"
   logoTitle = "RYLUIIWAN" # shown on top-left, default: title
-  siteLogoImage = "images/icon.jpg"     # shown besides logoTitle
+  siteLogoImage = "images/header.png"     # shown besides logoTitle
   # headerTitle = "Ryluiiwan"                   # default: title
-  headerImage = "images/background.png"
+  headerImage = "images/background2.jpg"
   showAuthorCard = true # Whether to show author information below the article
 
   showMenuLanguages = true
