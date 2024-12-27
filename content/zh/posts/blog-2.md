@@ -38,7 +38,7 @@ authors:
 ### ✍阅读：最近读些什么
 
 - [刻意练习 ](https://book.douban.com/subject/26895993/)  ✅
-- [面纱](https://book.douban.com/subject/26757680/)   🔋
+- [面纱](https://book.douban.com/subject/26757680/)   ✅
 - [那不勒斯四部曲](https://book.douban.com/subject/27204805/)  
 - [当下的力量](https://book.douban.com/subject/26815948/)
 

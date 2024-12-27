@@ -20,6 +20,8 @@ weight: 50
 
 ## ✍2024 年读过
 
+- [臣服实验](https://book.douban.com/subject/30384422/)
+- [面纱](https://book.douban.com/subject/26757680/)
 - [刻意练习](https://book.douban.com/subject/26895993/)
 - [不原谅也没关系](https://book.douban.com/subject/36132802/)
 - [鱼不存在](https://book.douban.com/subject/36096300/)
