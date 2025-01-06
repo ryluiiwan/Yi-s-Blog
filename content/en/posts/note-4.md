@@ -1,5 +1,5 @@
 ---
-title: 'S01E03: Starting a New Year, A Journal Entry of What I Did (Though I'm Not Sure What)'
+title: 'S01E03: Starting a New Year, A Journal Entry of What I Did'
 date: "2025-01-05T14:27:06+08:00"
 draft: false
 lastmod: "2025-01-05T14:27:06+08:00"

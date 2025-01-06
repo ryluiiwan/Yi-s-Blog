@@ -122,12 +122,24 @@ defaultContentLanguageInSubdir = true
     weight = 10
     identifier = "thinking"
     url = "category/thinking/"
-
+  
   [[languages.en.menu.social]]
-    name = "GitHub"
+    name = "instagram"
     weight = 10
-    identifier = "github"
-    url = "https://github.com/ryluiiwan"
+    identifier = "instagram"
+    url = "https://www.instagram.com/oyeahshalala/"
+  
+  [[languages.en.menu.social]]
+    name = "Twitter"
+    weight = 10
+    identifier = "Twitter"
+    url ="https://x.com/Lunuoyi"
+  
+  [[languages.en.menu.social]]
+    name = "Email"
+    weight = 10
+    identifier = "Email"
+    url ="mailto:ryluiiwan348@gmail.com"
 
   [[languages.en.menu.main]]
     name = "learning"
@@ -136,7 +148,7 @@ defaultContentLanguageInSubdir = true
     url = "category/learning/"
 
   [[languages.en.menu.links]]
-    name = "About Me"
+    name = "Yi's GitHub"
     weight = 10
     identifier = "about-me"
     url = "https://github.com/ryluiiwan"
@@ -175,11 +187,17 @@ defaultContentLanguageInSubdir = true
     identifier = "instagram"
     url = "https://www.instagram.com/oyeahshalala/"
   
-[[languages.zh.menu.social]]
-  name = "Twitter"
-  weight = 10
-  identifier = "Twitter"
-  url ="https://x.com/Lunuoyi"
+  [[languages.zh.menu.social]]
+    name = "Twitter"
+    weight = 10
+    identifier = "Twitter"
+    url ="https://x.com/Lunuoyi"
+
+  [[languages.zh.menu.social]]
+    name = "Email"
+    weight = 10
+    identifier = "Email"
+    url ="mailto:ryluiiwan348@gmail.com"
 
   [[languages.zh.menu.links]]
     name = "Yi's GitHub"

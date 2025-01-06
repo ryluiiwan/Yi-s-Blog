@@ -83,8 +83,11 @@
 - id: insite_search
   translation: Search
 
-- id: published_at
-  translation: "Published At "
+- id: words
+  translation: "words"
+
+- id: minutes
+  translation: "minutes"
 
 - id: search_tips
   translation: "Please enter your search keyword directly into the input area below"
