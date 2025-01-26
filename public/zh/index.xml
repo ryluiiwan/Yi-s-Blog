@@ -6,7 +6,7 @@
     <description>Recent content on Ryluiiwan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 12 Jan 2025 14:28:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 08:59:11 +0800</lastBuildDate>
     
     <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
     
@@ -63,6 +63,51 @@
 <li><a href="https://book.douban.com/subject/30358363/">被忽视的孩子:如何克服童年的情感忽视</a></li>
 <li><a href="https://book.douban.com/subject/35523099/">从零开始的女性主义</a></li>
 <li><a href="https://book.douban.com/subject/33422386/">世界尽头的咖啡馆</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>S01E05: 在学HTML&amp;CSS，没有什么是永恒的</title>
+      <link>http://localhost:1313/zh/2025/01/26/s01e05-%E5%9C%A8%E5%AD%A6htmlcss%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E6%B0%B8%E6%81%92%E7%9A%84/</link>
+      <pubDate>Sun, 26 Jan 2025 08:59:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/2025/01/26/s01e05-%E5%9C%A8%E5%AD%A6htmlcss%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E6%B0%B8%E6%81%92%E7%9A%84/</guid>
+      <description>前言 美好的生活。不一定在于物质的丰富。而在于找到属于自己的节奏和自由。 ————《我可能错了》 穿过一片黑夜，抬头还能看到零星几颗星星，扑闪扑闪</description>
+      <content:encoded><![CDATA[<h2 id="前言">前言</h2>
+<blockquote>
+<p>美好的生活。不一定在于物质的丰富。而在于找到属于自己的节奏和自由。
+————《我可能错了》</p>
+</blockquote>
+<p>穿过一片黑夜，抬头还能看到零星几颗星星，扑闪扑闪地发着光。最近两周平均五天看完一本书，<a href="https://book.douban.com/subject/27204805/">《那不勒斯四部曲》</a>、<a href="https://book.douban.com/subject/36457094/">《明亮的夜晚》</a>、<a href="https://book.douban.com/subject/36743030/">《恶女的告白》这本名字叫“漫长的午后”才对</a>，读这些深刻让我意识到“女性是一种处境”。虽然都是小说，分别都是写了不同的年代、不同的国家、不同社会背景下的女人，但在写女人之间互帮互助、惺惺相惜的独特情谊以及在写她们遭受父权制、大男子主义的压迫所受到的创伤却又无比地相似。在一本书中看到了另外好几本书，它们带给我的触感是相同的，偶尔明亮时常沉默又压抑。</p>
+<p>最近又打开一本类似于身心灵修行的书就叫做<a href="https://book.douban.com/subject/37021120/">《我可能错了》</a>，这本应该会慢慢地看，因为读非小说的文字，总是要花更大的力气。我一直在思索着到底什么样的人生才是我真正想要拥有的人生，是想要追逐世俗意义上的成功，还是就这样简单地活着。有时感觉自己无欲无求，可以呼吸就行；有时感觉是不是要去争取一些东西呢，这两种相反的情绪分别拽着一条绳子的两端，分不出胜负，就这样一直矛盾着走向了人生的第二十四个年头。我的一生还能看到多少次的月亮升起，说不定哪天就嘎嘣死掉，都无法看到第二天早上升起的太阳。</p>
+<p>在上进与上香之间，选择了算命。23 年底因为算命结识了一个姐妹，让她帮我算我适合去哪个城市工作生活，因为在深圳待得实在是太倒霉了，每个月都在生病经常给医院送钱，连着一个星期不明原因便血、膝盖滑膜炎，工作也不算顺心、最开始工资也低得可怜。前几天她发来消息说可以给我算 25 年的年运，大概是说我今年又会是疲惫地工作、因为竞争压力会比较大。那这岂不是又是在重复 24 年，明明我已经迫切地想要摆脱这样的生活，我不太相信，离开深圳这个快节奏、绝对务实的城市已经在我的计划之中，到底命运是注定好的根本无法改变，还是可以人为地改变呢，我也很好奇它会是什么样的走向。</p>
+<h2 id="你是自由的">你是自由的</h2>
+<p>是的，我是自由的，可以做任何想做的事情，无论什么时候开始，什么时候结束，我有足够的掌控权。这周坐在电脑前的次数变多了，在学一些前端基础性的东西，很久之前我对前端建网站的兴趣更大一些，但一直没有系统性地去学，听完了一节 30min 的课，倒也跟着做出来了一个网站首页虽然没有和后端交互，一些网页的前端部分差不多也可以看懂，并且那个代码是我自己写出来的，还是很有成就感的。如果我当初认真练习编程，如果我当时多多尝试，是不是也可以拥有更多的选择，可惜没有如果。</p>
+<p>乡愁是属于男人的奥德赛，逃离是刻进女性身体里的史诗。今年是第二年没有回家过年，主要原因是机票太贵，回去一趟成本太高。但其实好像也是我自己潜意识告诉我：我不想回去。我也说不上原因，离开家以后，我几乎很少想起家，因为血缘关系成为一家人，但实际上我们并不了解彼此的内心，心和心的距离太远，偶尔打个电话也会因为价值观分歧发生争吵，我几乎是用尽了这辈子所有学来的刻薄言语来反抗刺伤妈妈，可能是知道无论如何，她都会原谅我，因为我是她的女儿。总是过几天，我们又会开始平和地小心翼翼地讲电话。所以和妈妈保持距离是最好的选择，可以最大限度地维护我们之间的关系，让彼此都不会受到伤害。</p>
+<h2 id="区区爱而已别输给它">区区爱而已，别输给它</h2>
+<p>社会教导女人关于模糊不清的爱的一切：渴望爱、付出爱、得到爱。在看<a href="https://book.douban.com/subject/36743030/">恶女的告白</a>的时候出现了这句话<code>区区爱而已，别输给它</code>，爱也像是一种无形的枷锁，别输给它的意思是说：我们可以不用执着于纠结自己是不是被爱着的，是不是被父母爱着，是不是被伴侣爱着，是不是被朋友爱着，区区爱而已，我们更需要的是自由、是权力，而不是被爱所打造的牢笼困住自己。</p>
+<p>真正的爱是什么？我爱妈妈是想要让她为自己而活、想让她打电话告诉我她需要什么然后我买给她的这种心情。很早之前看心理学书籍，是说<code>真正的爱是让对方成为更好的自己</code>、<code>爱是尊重不是控制</code>。</p>
+<h2 id="-书影音">🎨 书影音</h2>
+<h3 id="-书籍">📕 书籍</h3>
+<ul>
+<li><a href="https://book.douban.com/subject/36743030/">恶女的告白</a> ✅ 这个书名的翻译太差劲了 应该叫《漫长的午后》！！！</li>
+<li><a href="https://book.douban.com/subject/36457094/">明亮的夜晚</a> ✅</li>
+</ul>
+<h3 id="-视频">✨ 视频</h3>
+<p>最近沉迷各种案件讲解的视频，晚上睡觉前都要听一集才能睡着(某种不知名睡前仪式感)</p>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV14Ac1eaEZt">女子在地下室楼梯上被发现，其男友发现了状况，意大利楼梯悬案 | X 调查</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ugDhYNEjf">新婚妻子随车滑入大海，是意外还是人为？金鳌岛汽车坠海事件 | X 调查</a></li>
+<li><a href="https://www.bilibili.com/video/BV1KWw8eoES8">从邮轮上意外坠海，还有可能在茫茫大海中生还吗？三则邮轮坠海故事 | X 调查</a></li>
+<li><a href="https://www.bilibili.com/video/BV1eg411j7RD/">未解悬案之名古屋西区主妇事件</a></li>
+<li><a href="https://www.bilibili.com/video/BV1QdkQYyE2K">芬兰一家庭深夜遭破窗袭击，案情多次反转，女主人被怀疑，乌尔维拉谋杀案 | X 调查</a></li>
+</ul>
+<h3 id="-播客">🎧 播客</h3>
+<ul>
+<li><a href="https://www.xiaoyuzhoufm.com/episode/66e08b5dbfd7110df4bb6e6e">Vol.48 东北往事，讷河地窖特大杀人藏尸案</a></li>
+<li><a href="https://www.xiaoyuzhoufm.com/episode/66e00c45ee04007d8885889a">S6E2 鲁豫对话吉井忍 | 从全世界回到东京八平米</a></li>
+<li><a href="https://www.xiaoyuzhoufm.com/episode/66f434a04775a9c3523010d1">110 比起走得快，现在更想走得远</a></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -222,42 +267,42 @@
       <description>感觉一切好像被按下了加速键一样，竟然已经十二月末。今年发生的一切开始模糊了起来，像蒙上了一层灰，上了年纪、对碎片化信息成瘾，导致脑子都生了锈</description>
       <content:encoded><![CDATA[<p>感觉一切好像被按下了加速键一样，竟然已经十二月末。今年发生的一切开始模糊了起来，像蒙上了一层灰，上了年纪、对碎片化信息成瘾，导致脑子都生了锈上了锁，还得时不时敲敲脑壳，想想今夕是何年。从十几岁的时候，我就开始担心以后会不会得阿尔兹海默症，以前偶尔写自己的小小公众号，我创建了一个合集就叫“阿尔兹海默症潜在患者的回忆录”，在那个小小的角落里，偶尔频繁地记录着，希望自己不会忘记。</p>
 <p>今年因为工作打乱了生活节奏，几乎没有拿起笔记录我的生活：最近看了什么电影、什么书、有什么感悟，甚至都不会写字了，有的字要想很久才能在纸上写出来，有的时候想了很久也是一个错别字。不禁感慨，我的语言功能怎么退化到这种境地，糟糕到让我后怕，连一些简单的祝福语都无法依靠自己写出来，需要上网现搜。语言匮乏到一定程度，都没什么感受可言，只会是一个空洞又麻木的人。</p>
-<p>应该是九月吧，看到了油管上的一个博主<a href="https://www.youtube.com/watch?v=OmyfB513E1s">Reysu</a>写日记的视频，他传授了一种all-in-one的日记记录方法，对我这种经常三天打鱼两天晒网的人来说没有太大的负担，我可以随时开始记录，而不必要求自己每天都必须要写日记。于是买了一个日记本，开始记录自己每天的生活。九月只记录了几天，空白了大片；十月记录了大半个月，空白了小半个月；十一月记录了每一天，然后也写了日记；十二月仍然记录了每一天还在进行中，写了更多的日记。现在我也养成了频繁记录自己生活的习惯，可以追溯在那一天发生了什么特别的事，这是一个蛮不错的体验，真的很想推荐所有我认识的人去试试。</p>
+<p>应该是九月吧，看到了油管上的一个博主<a href="https://www.youtube.com/watch?v=OmyfB513E1s">Reysu</a>写日记的视频，他传授了一种 all-in-one 的日记记录方法，对我这种经常三天打鱼两天晒网的人来说没有太大的负担，我可以随时开始记录，而不必要求自己每天都必须要写日记。于是买了一个日记本，开始记录自己每天的生活。九月只记录了几天，空白了大片；十月记录了大半个月，空白了小半个月；十一月记录了每一天，然后也写了日记；十二月仍然记录了每一天还在进行中，写了更多的日记。现在我也养成了频繁记录自己生活的习惯，可以追溯在那一天发生了什么特别的事，这是一个蛮不错的体验，真的很想推荐所有我认识的人去试试。</p>
 <h2 id="1-好好吃饭好好睡觉">1. 好好吃饭，好好睡觉</h2>
-<p>在经历了糟糕的职场环境，被排挤边缘，心力耗竭。虽然永远后知后觉，但认识了一些很好的同事，成为了可以约饭看电影的朋友关系，也算是为我这短短一年的工作画上句号吧。</p>
+<p>在经历了糟糕的职场环境，心力耗竭。虽然永远后知后觉，但认识了一些很好的同事，成为了可以约饭看电影的朋友关系，也算是为我这短短一年的工作画上句号吧。</p>
 <p>离开后，开始养身体、看中医。去老姐家住了半个月，养成了吃早饭的习惯，一日三餐顿顿都不落，<code>晕车废物</code>我本人坐车竟然开始不晕车了，原来很多问题只要<code>好好吃饭</code>就可以解决。从小到大，一直深受晕车这个问题的困扰，每每坐车晕车到怀疑人生恨不得原地去世，导致我一度很讨厌出门坐车。让人头疼的问题最后是以一种极其朴素的方式解决，可能以后还会时不时晕车，嗯，好好吃饭！</p>
-<p>前一段时间去看中医，确诊了<code>虚劳病</code>，因为每天睡觉都在做梦、醒不过来，每天都要睡9-10个小时才能醒过来，醒来之后总是很累、没有精力。这个月开始在我的日记本上记录每天的睡眠时间，除了一两天被楼上邻居沉重的脚步声吵得失眠，每天的睡眠时间都在8.5小时以上，一方面是因为冬天来了的缘故，一方面是身体气血不足、精力奇差的原因。嗯，好好睡觉，不要熬夜！</p>
+<p>前一段时间去看中医，确诊了<code>虚劳病</code>，因为每天睡觉都在做梦、醒不过来，每天都要睡 9-10 个小时才能醒过来，醒来之后总是很累、没有精力。这个月开始在我的日记本上记录每天的睡眠时间，除了一两天被楼上邻居沉重的脚步声吵得失眠，每天的睡眠时间都在 8.5 小时以上，一方面是因为冬天来了的缘故，一方面是身体气血不足、精力奇差的原因。嗯，好好睡觉，不要熬夜！</p>
 <h2 id="2-自然治愈一切">2. 自然治愈一切</h2>
 <p>住的地方离公园很远，每次出门找公园都得至少倒两趟地铁。这周周中的时候去了一个好大的公园散步，我的逛公园方式是最纯朴的纯走路式，走到哪儿算哪儿，甚至根本搞不清方向，就一直向前走。很喜欢树叶和阳光交织在一起洒在墙面或者地面上的斑驳光影，这是足够我停下脚步看一看的。这个公园可能是因为在城市中心的某一片地块上，连鸟的种类也极少，听到的鸟叫声寥寥无几。</p>
 <p>公园里随处都是跑步、骑行的人，专注地享受。后面不知道走到哪儿了，看到两只可爱活泼的小猫，活像两个小“山霸王”：一只不怕人的狸花猫和一只有点怕人的奶牛猫，逗它们玩了一下，看它们窜来窜去。猫的世界里面，人会是什么样的存在呢。</p>
 <p>穿过一片树，偶然看到一棵从树尖到树根都枯死的树，本来都要向前走了，还是回头看了。那棵枯死的树，它的枝干抽出了新芽，就从那干枯的身躯里冒出了绿芽，生命的力量是何等地强大坚韧。</p>
 <h2 id="3-书影音">3. 书影音</h2>
 <p>最近每天的时间都只属于我自己，看一些影视和书的时间变得多了。</p>
-<h3 id="阅读最近读些什么">✍阅读：最近读些什么</h3>
+<h3 id="-阅读最近读些什么">✍ 阅读：最近读些什么</h3>
 <ul>
-<li><a href="https://book.douban.com/subject/26895993/">刻意练习 </a>  ✅</li>
-<li><a href="https://book.douban.com/subject/26757680/">面纱</a>   ✅</li>
+<li><a href="https://book.douban.com/subject/26895993/">刻意练习 </a> ✅</li>
+<li><a href="https://book.douban.com/subject/26757680/">面纱</a> ✅</li>
 <li><a href="https://book.douban.com/subject/27204805/">那不勒斯四部曲</a></li>
 <li><a href="https://book.douban.com/subject/26815948/">当下的力量</a></li>
 </ul>
-<h3 id="影视最近看些什么">📌影视：最近看些什么</h3>
+<h3 id="-影视最近看些什么">📌 影视：最近看些什么</h3>
 <ul>
-<li><a href="https://movie.douban.com/subject/36154853/">好东西</a>  ✅</li>
-<li><a href="https://movie.douban.com/subject/36712987/">破地狱</a>  ✅</li>
-<li><a href="https://movie.douban.com/subject/25851655/">四月是你的谎言</a>  ✅</li>
-<li><a href="https://movie.douban.com/subject/28427782/">我的天才女友第一季</a>  ✅</li>
-<li><a href="https://movie.douban.com/subject/30395843/">我的天才女友第二季</a>  ✅</li>
+<li><a href="https://movie.douban.com/subject/36154853/">好东西</a> ✅</li>
+<li><a href="https://movie.douban.com/subject/36712987/">破地狱</a> ✅</li>
+<li><a href="https://movie.douban.com/subject/25851655/">四月是你的谎言</a> ✅</li>
+<li><a href="https://movie.douban.com/subject/28427782/">我的天才女友第一季</a> ✅</li>
+<li><a href="https://movie.douban.com/subject/30395843/">我的天才女友第二季</a> ✅</li>
 <li><a href="https://movie.douban.com/subject/35051880/">我的天才女友第三季</a></li>
 </ul>
-<h3 id="视频油管b站">🎨视频：油管/B站</h3>
+<h3 id="-视频油管b-站">🎨 视频：油管/B 站</h3>
 <ul>
 <li><a href="https://www.bilibili.com/video/BV1UExyefEyt">保姆级绘画自学指南</a></li>
 <li><a href="https://www.bilibili.com/video/BV1zw41187Dn">银杏：活着，直到被死神遗忘</a></li>
 <li><a href="https://www.youtube.com/watch?v=xR5-0XDkwU0&t">My Obsidian Setup: The King of Note Taking Apps</a></li>
 <li><a href="https://www.youtube.com/watch?v=fxnVADG7H7w">how I would learn Digital Marketing in 2025 </a></li>
-<li><a href="https://www.youtube.com/watch?v=MPTBT4-r4Fs&t=2881s&ab_channel=AbaoinTokyo">📚2小时实时学习 / calm piano / 日落东京塔 / 番茄时钟(25+5) / STUDY WITH ME 🗼</a></li>
+<li><a href="https://www.youtube.com/watch?v=MPTBT4-r4Fs&t=2881s&ab_channel=AbaoinTokyo">📚2 小时实时学习 / calm piano / 日落东京塔 / 番茄时钟(25+5) / STUDY WITH ME 🗼</a></li>
 </ul>
-<h3 id="播客小宇宙苹果播客">🎧播客：小宇宙/苹果播客</h3>
+<h3 id="-播客小宇宙苹果播客">🎧 播客：小宇宙/苹果播客</h3>
 <ul>
 <li><a href="https://www.xiaoyuzhoufm.com/episode/6720836fbad346ebe6399017">E37 鱼不存在</a></li>
 <li><a href="https://www.xiaoyuzhoufm.com/episode/663ac13e13426298925c9853">S5E8 鲁豫对话张春 | 要活得很久，我做了这个决定</a></li>
@@ -269,18 +314,17 @@
     </item>
     
     <item>
-      <title>Hugo搭建个人博客</title>
-      <link>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <title>Hugo &#43; Cloudflare部署个人博客</title>
+      <link>http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
       
-      <guid>http://localhost:1313/zh/2024/12/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还</description>
       <content:encoded><![CDATA[<p>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。</p>
-<p>这次也想看看我能不能把这件事，从头到尾做完，并不断完善。准备开始折腾，顺便捡起本科的渣渣编程基础。有天在搜索 Hugo 的时候突然看到了<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">pseudoyu</a>大佬做的博客，故按照他的教程来搞一个静态的博客，做一个自己的网络自留地。</p>
-<h1 id="1-安装-hugo">1. 安装 Hugo</h1>
-<p>我的电脑是 <code>windows</code> 系统，比 Mac os 安装起来麻烦一点点。
-Windows 系统下载安装</p>
-<h2 id="1下载-hugo">(1)下载 Hugo</h2>
+<p>这次也想看看我能不能把这件事，从头到尾做完，并不断完善。准备开始折腾，顺便捡起本科的渣渣编程基础。有天在搜索 Hugo 的时候突然看到了<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">pseudoyu</a>大佬做的博客，故按照他的教程来搞一个静态博客，做一个自己的网络自留地。</p>
+<h2 id="-安装-hugo">📍 安装 Hugo</h2>
+<p>系统：<code>Windows10</code></p>
+<h3 id="下载-hugo">下载 Hugo</h3>
 <ul>
 <li>打开 <a href="https://github.com/gohugoio/hugo/releases">Hugo 官方 GitHub Release 页面</a>。</li>
 <li>找到最新版本，下载适合 Windows 的二进制文件：
@@ -290,12 +334,12 @@ Windows 系统下载安装</p>
 </ul>
 </li>
 </ul>
-<h2 id="2解压文件">(2)解压文件</h2>
+<h3 id="解压文件">解压文件</h3>
 <ul>
 <li>将下载的 ZIP 文件解压到一个文件夹，例如 <code>D:\hugo</code></li>
 <li>你应该能在<code>bin</code>文件夹中看到一个 <code>hugo.exe</code> 文件</li>
 </ul>
-<h2 id="3配置环境变量">(3)配置环境变量</h2>
+<h3 id="配置环境变量">配置环境变量</h3>
 <ul>
 <li><strong>打开系统环境变量设置：</strong>
 <ul>
@@ -311,7 +355,7 @@ Windows 系统下载安装</p>
 </ul>
 </li>
 </ul>
-<h2 id="4验证安装">(4)验证安装</h2>
+<h3 id="验证安装">验证安装</h3>
 <ul>
 <li>打开命令提示符（<code>cmd</code>），输入以下命令：</li>
 </ul>
@@ -320,7 +364,7 @@ Windows 系统下载安装</p>
 <li>如果安装成功，你会看到类似下面的输出：</li>
 </ul>
 <pre tabindex="0"><code>hugo v0.128.2-de36c1a95d28595d8243fd8b891665b069ed0850+extended windows/amd64 BuildDate=2024-07-04T08:13:25Z VendorInfo=gohugoio
-</code></pre><h2 id="5初始化站点">(5)初始化站点</h2>
+</code></pre><h3 id="初始化站点">初始化站点</h3>
 <ul>
 <li>创建新项目</li>
 </ul>
@@ -329,15 +373,16 @@ Windows 系统下载安装</p>
 <li>进入项目目录</li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="nb">cd</span> ryluiiwan.com
-</span></span></code></pre></div><h2 id="6初始化-git-仓库">(6)初始化 git 仓库</h2>
+</span></span></code></pre></div><h3 id="初始化-git-仓库">初始化 git 仓库</h3>
+<p>创建好的项目是没有被 Git 管理的，所以需要初始化 Git 仓库</p>
 <ul>
 <li>初始化一个新的 git 仓库</li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git init
 </span></span></code></pre></div><ul>
-<li>将<strong>工作区中所有的更改</strong>添加到暂存区（Staging Area）。它的作用是准备这些更改以便后续使用 <code>git commit</code> 提交到本地仓库</li>
+<li>将<strong>工作区中所有的更改</strong>添加到暂存区（Staging Area）</li>
 </ul>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git add -A
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git add .
 </span></span></code></pre></div><ul>
 <li>提交你在暂存区中的更改到本地仓库，并为这个提交添加一条描述信息</li>
 </ul>
@@ -350,7 +395,71 @@ Windows 系统下载安装</p>
 <li>将远程仓库关联到本地仓库</li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git remote add origin git@github.com:ryluiiwan/ryluiiwan.com.git
-</span></span></code></pre></div>]]></content:encoded>
+</span></span></code></pre></div><h3 id="引用主题">引用主题</h3>
+<ul>
+<li>下载<code>den</code>主题：克隆了<a href="https://github.com/pseudoyu/hugo-theme-den">pseudoyu</a>的博客项目</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git submodule add https://github.com/pseudoyu/hugo-theme-den themes/hugo-theme-den
+</span></span></code></pre></div><ul>
+<li>初始化</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git submodule update --init --recursive
+</span></span></code></pre></div><ul>
+<li>开始使用主题时将其 exampleSite/ 目录下的文件复制到站点目录下，在此基础上进行调整配置。</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">cp -rf themes/hugo-theme-den/exampleSite/* ./
+</span></span></code></pre></div><ul>
+<li>
+<p>然后修改 Hugo 的配置(<code>hugo.toml</code>)</p>
+</li>
+<li>
+<p>修改后，在本地启动服务，可以访问 <code>http://localhost:1313/</code> 来查看网站</p>
+</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">hugo server
+</span></span></code></pre></div><h2 id="-发布博客工作流程">📍 发布博客工作流程</h2>
+<ul>
+<li>创建新的博客文件</li>
+</ul>
+<p>新创建的文章默认会放在<code>content</code>目录下，文章的头信息可以修改<code>archetypes/default.md</code>这个模板。</p>
+<p>我的文章模板是：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">---
+</span></span><span class="line"><span class="cl">title: &#39;{{ replace .File.ContentBaseName &#34;-&#34; &#34; &#34; | title }}&#39;
+</span></span><span class="line"><span class="cl">date: &#34;{{ .Date }}&#34;
+</span></span><span class="line"><span class="cl">draft: true
+</span></span><span class="line"><span class="cl">lastmod: &#34;{{ .Date }}&#34;
+</span></span><span class="line"><span class="cl">tags: [&#34;Blog&#34;]
+</span></span><span class="line"><span class="cl">categories: [&#34;thinking&#34;]
+</span></span><span class="line"><span class="cl">authors:
+</span></span><span class="line"><span class="cl">  <span class="k">-</span> &#34;ryluiiwan&#34;
+</span></span><span class="line"><span class="cl">---
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">hugo new posts/blog.md
+</span></span></code></pre></div><ul>
+<li>上传到 Git 仓库，Cloudflare 会自动部署</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git add .   <span class="c1">#将文件提交到暂存区</span>
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git commit -m <span class="s2">&#34;update&#34;</span>
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git push
+</span></span></code></pre></div><p>另外上传的时候有的时候出现：Git 报错<code> Failed to connect to github.com port 443</code></p>
+<p>✨ 记录一下解决方案: 查看自己电脑中的系统代理端口号，改一下<code>127.0.0.1后的端口号</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git config --global http.proxy 127.0.0.1:8087
+</span></span></code></pre></div><h2 id="-购买域名cloudflare-部署">📍 购买域名&amp;Cloudflare 部署</h2>
+<p>域名购买我大概看了<a href="https://godaddy.com/">GoDaddy</a>、<a href="https://www.namesilo.com/">NameSilo</a>、<a href="https://www.cloudflare.com/">Cloudflare</a>。因为这个字符串<code>ryluiiwan</code>我已经用了很久，所以选定了网域之后，对比了不同平台的价格
+，选择了最便宜的<a href="https://www.cloudflare.com/">Cloudflare</a>，一年$10.44。但<code>Cloudflare</code>不支持国内支付宝等支付方式，最后在闲鱼上找了一个 visa 代付，也算是成功解决了这个问题。</p>
+<h3 id="cloudflare-pages-构建博客">Cloudflare Pages 构建博客</h3>
+<p>Cloudflare Pages 是 Cloudflare 推出的静态网站托管服务，可以直接连接 Github 仓库，完成自动化部署。
+<img alt="创建pages" src="static/images/p1.jpg" title="Cloudflare pages创建"></p>
+<h3 id="添加-dns-解析">添加 DNS 解析</h3>
+<h3 id="reference">Reference</h3>
+<ul>
+<li>
+<p><a href="https://chatgpt.com/">ChatGPT</a></p>
+</li>
+<li>
+<p><a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">Hugo + GitHub Action，搭建你的博客自动发布系统</a></p>
+</li>
+</ul>
+]]></content:encoded>
     </item>
     
     <item>
