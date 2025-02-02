@@ -10,35 +10,56 @@
   
   <url>
     <loc>http://localhost:1313/zh/tag/blog/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/categories/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/tag/life/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/posts/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/2025/02/02/s01e06-%E8%BF%87%E5%B9%B4%E8%BF%99%E5%87%A0%E5%A4%A9%E5%9C%A8%E7%BB%86%E7%A2%8E%E4%B9%8B%E5%A4%84%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F/</loc>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/tags/</loc>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/category/thinking/</loc>
+    <lastmod>2025-02-02T13:42:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -52,20 +73,6 @@
   
   <url>
     <loc>http://localhost:1313/zh/tag/study/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/tags/</loc>
-    <lastmod>2025-01-26T08:59:11+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/category/thinking/</loc>
     <lastmod>2025-01-26T08:59:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
