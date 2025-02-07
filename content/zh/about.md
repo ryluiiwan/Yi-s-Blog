@@ -8,7 +8,7 @@ weight: 50
 
 ## 👉 这里是 [ryluiiwan](http://ryluiiwan.com)
 
-前TK红人营销(臭卖货的)，想学习一些 Digital Marketing 的技能和知识(目前是这样的想法)，然后转行。本科是念的数据科学与大数据技术，略懂一些编程基础和一点点数据分析思路，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。
+前 TK 红人营销(臭卖货的)，想学习一些 Digital Marketing 的技能和知识(目前是这样的想法)。本科是念的数据科学与大数据技术，略懂一些编程基础和一点点数据分析思路，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。
 
 希望可以成为一个内心强大的人。
 
@@ -18,9 +18,20 @@ weight: 50
 
 **_职业发展_**，做一些有用的事(对我对他人)，相互成就共赢是我认为在社会关系里最好的的原则，在某个领域里面持续深耕
 
+## 👉2025 年读过
+
+- [马可瓦尔多](https://book.douban.com/subject/34799583/)
+- [我可能错了：森林智者的最后一堂人生课](https://book.douban.com/subject/37021120/)
+- [恶女的告白](https://book.douban.com/subject/36743030/)
+- [明亮的夜晚](https://book.douban.com/subject/36457094/)
+- [东京八平米](https://book.douban.com/subject/36096287/)
+- [失踪的孩子：那不勒斯四部曲 4](https://book.douban.com/subject/30172069/)
+- [离开的，留下的：那不勒斯四部曲 3](https://book.douban.com/subject/27104959/)
+- [新名字的故事：那不勒斯四部曲 2](https://book.douban.com/subject/26986954/)
+
 ## ✍2024 年读过
 
-- [我的天才女友:那不勒斯四部曲1](https://book.douban.com/subject/26878124/)
+- [我的天才女友:那不勒斯四部曲 1](https://book.douban.com/subject/26878124/)
 - [臣服实验](https://book.douban.com/subject/30384422/)
 - [面纱](https://book.douban.com/subject/26757680/)
 - [刻意练习](https://book.douban.com/subject/26895993/)
