@@ -1,85 +1,85 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:11206/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>http://localhost:11206/en/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/tag/blog/</loc>
+    <loc>http://localhost:11206/en/tag/blog/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>http://localhost:11206/en/categories/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/tag/life/</loc>
+    <loc>http://localhost:11206/en/tag/life/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>http://localhost:11206/en/posts/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>http://localhost:11206/en/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/2025/01/05/s01e03-starting-a-new-year-a-journal-entry-of-what-i-did/</loc>
+    <loc>http://localhost:11206/en/2025/01/05/s01e03-starting-a-new-year-a-journal-entry-of-what-i-did/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>http://localhost:11206/en/tags/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/category/thinking/</loc>
+    <loc>http://localhost:11206/en/category/thinking/</loc>
     <lastmod>2025-01-05T14:27:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/2024/12/29/s01e02-a-week-of-lying-flat-and-doing-sit-ups-repeatedly/</loc>
+    <loc>http://localhost:11206/en/2024/12/29/s01e02-a-week-of-lying-flat-and-doing-sit-ups-repeatedly/</loc>
     <lastmod>2024-12-29T14:26:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/2024/12/22/s01e01-recent-days-a-journal-entry-of-daily-life/</loc>
+    <loc>http://localhost:11206/en/2024/12/22/s01e01-recent-days-a-journal-entry-of-daily-life/</loc>
     <lastmod>2024-12-22T17:07:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/2024/12/07/in-november-i-started-my-24th-year/</loc>
+    <loc>http://localhost:11206/en/2024/12/07/in-november-i-started-my-24th-year/</loc>
     <lastmod>2024-12-07T12:11:08+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

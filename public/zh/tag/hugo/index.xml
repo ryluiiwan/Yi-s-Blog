@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Ryluiiwan</title>
-    <link>http://localhost:1313/zh/tag/hugo/</link>
+    <link>http://localhost:11206/zh/tag/hugo/</link>
     <description>Recent content in Hugo on Ryluiiwan</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 07 Dec 2024 12:11:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tag/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:11206/zh/tag/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo &#43; Cloudflare部署个人博客</title>
-      <link>http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://localhost:11206/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
-      <guid>http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://localhost:11206/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还</description>
     </item>
   </channel>
