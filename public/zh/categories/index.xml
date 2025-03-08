@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ryluiiwan</title>
-    <link>http://localhost:11206/zh/categories/</link>
+    <link>http://localhost:1313/zh/categories/</link>
     <description>Recent content in Categories on Ryluiiwan</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 09 Feb 2025 15:34:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:11206/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 12:34:01 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking</title>
-      <link>http://localhost:11206/zh/category/thinking/</link>
-      <pubDate>Sun, 09 Feb 2025 15:34:10 +0800</pubDate>
-      <guid>http://localhost:11206/zh/category/thinking/</guid>
+      <link>http://localhost:1313/zh/category/thinking/</link>
+      <pubDate>Sun, 16 Feb 2025 12:34:01 +0800</pubDate>
+      <guid>http://localhost:1313/zh/category/thinking/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://localhost:11206/zh/category/tools/</link>
+      <link>http://localhost:1313/zh/category/tools/</link>
       <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
-      <guid>http://localhost:11206/zh/category/tools/</guid>
+      <guid>http://localhost:1313/zh/category/tools/</guid>
       <description></description>
     </item>
   </channel>
