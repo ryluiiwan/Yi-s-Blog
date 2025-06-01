@@ -8,7 +8,7 @@ weight: 50
 
 ## 👉 这里是 [ryluiiwan](http://ryluiiwan.com)
 
-前 TK 红人营销(臭卖货的)，想学习一些 Digital Marketing 的技能和知识(目前是这样的想法)。本科是念的数据科学与大数据技术，略懂一些编程基础和一点点数据分析思路，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。
+前 TK 红人营销(臭卖货的)，现海外红人营销兼做社媒运营，想学习一些 Digital Marketing (SEO/Google Ads)的技能。本科是念的数据科学与大数据技术，略懂一些编程基础和一点点数据分析思路，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。
 
 希望可以成为一个内心强大的人。
 
@@ -20,6 +20,16 @@ weight: 50
 
 ## 👉2025 年读过
 
+- [工作、消费主义和新穷人](https://book.douban.com/subject/36519486/)
+- [尼罗河上的惨案](https://book.douban.com/subject/25697546/)
+- [桶川跟踪狂杀人事件](https://book.douban.com/subject35094680/)
+- [动物农场](https://book.douban.com/subject/4908879/)
+- [人类简史](https://book.douban.com/subject/25985021/)
+- [恶意](https://book.douban.com/subject/26877752/)
+- [平面国](https://book.douban.com/subject/35170896/)
+- [圣母](https://book.douban.com/subject/30475757/)
+- [早安，怪物](https://book.douban.com/subject/36700758/)
+- [消失的多巴胺](https://book.douban.com/subject/37058625/)
 - [马可瓦尔多](https://book.douban.com/subject/34799583/)
 - [我可能错了：森林智者的最后一堂人生课](https://book.douban.com/subject/37021120/)
 - [恶女的告白](https://book.douban.com/subject/36743030/)
