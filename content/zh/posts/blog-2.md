@@ -1,5 +1,6 @@
 ---
 title: "#01: 最近都在干什么流水账日记"
+slug: 01-recently-life
 date: "2024-12-22T17:07:52+08:00"
 draft: false
 lastmod: "2024-12-22T17:07:52+08:00"

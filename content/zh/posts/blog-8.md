@@ -1,5 +1,6 @@
 ---
 title: "#07: 春天快到了，追求幸福是一个伪命题"
+slug: 07-Spring-is-comming
 date: "2025-02-09T15:34:10+08:00"
 draft: false
 lastmod: "2025-02-09T15:34:10+08:00"

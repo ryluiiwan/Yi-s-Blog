@@ -1,5 +1,6 @@
 ---
 title: "#05: 在学HTML&CSS，没有什么是永恒的"
+slug: 05-leanring-front web
 date: "2025-01-26T08:59:11+08:00"
 draft: false
 lastmod: "2025-01-26T08:59:11+08:00"

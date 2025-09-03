@@ -1,5 +1,6 @@
 ---
 title: "#06: 过年这几天，在细碎之处感受幸福"
+slug: 06-Happy-Chinese-New-Year
 date: "2025-02-02T13:42:38+08:00"
 draft: false
 lastmod: "2025-02-02T13:42:38+08:00"

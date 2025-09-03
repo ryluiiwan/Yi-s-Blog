@@ -1,5 +1,6 @@
 ---
 title: "#04: 遛弯公园晒太阳，一口气读完了那不勒斯四部曲"
+slug: 04-reading-shortwalk
 date: "2025-01-12T14:28:32+08:00"
 draft: false
 lastmod: "2025-01-12T14:28:32+08:00"
