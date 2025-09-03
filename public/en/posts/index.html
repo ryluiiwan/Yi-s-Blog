@@ -109,6 +109,10 @@
             <dd class="col-md-9"><a href="http://localhost:1313/en/2024/12/22/s01e01-recent-days-a-journal-entry-of-daily-life/">S01E01: Recent Days - A Journal Entry of Daily Life</a></dd>
             <dt class="col-md-3">2024-12-07</dt>
             <dd class="col-md-9"><a href="http://localhost:1313/en/2024/12/07/in-november-i-started-my-24th-year/">In November, I Started My 24th Year</a></dd>
+            <dt class="col-md-3">2018-03-06</dt>
+            <dd class="col-md-9"><a href="http://localhost:1313/en/2018/03/06/den-theme-preview/">Den Theme Preview</a></dd>
+            <dt class="col-md-3">2018-03-05</dt>
+            <dd class="col-md-9"><a href="http://localhost:1313/en/2018/03/05/header-image/">Header Image</a></dd>
             
         </dl>
     </div>
@@ -211,9 +215,11 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
 <script>
-  mediumZoom("article img", {
-    background: "rgba(0,0,0,0.8)",
-    margin: 24,
+  document.addEventListener("DOMContentLoaded", function () {
+    mediumZoom(".content img, article img", {
+      background: "rgba(0,0,0,0.8)",
+      margin: 24,
+    });
   });
 </script>
 <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

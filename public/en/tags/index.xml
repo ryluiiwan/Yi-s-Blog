@@ -22,5 +22,33 @@
       <guid>http://localhost:1313/en/tag/life/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Preview</title>
+      <link>http://localhost:1313/en/tag/preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/en/tag/preview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/en/tag/shortcodes/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/en/tag/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/en/tag/tutorial/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/en/tag/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Images</title>
+      <link>http://localhost:1313/en/tag/images/</link>
+      <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>http://localhost:1313/en/tag/images/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

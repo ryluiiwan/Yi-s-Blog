@@ -248,9 +248,11 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
 <script>
-  mediumZoom("article img", {
-    background: "rgba(0,0,0,0.8)",
-    margin: 24,
+  document.addEventListener("DOMContentLoaded", function () {
+    mediumZoom(".content img, article img", {
+      background: "rgba(0,0,0,0.8)",
+      margin: 24,
+    });
   });
 </script>
 <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

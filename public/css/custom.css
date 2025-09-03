@@ -1,6 +1,6 @@
 /*关于页面图片链接*/
 
-.content img {
+/* .content img {
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -10,6 +10,31 @@
   width: auto;
   margin-top: 5px;
   margin-bottom: 5px;
+} */
+
+/* 正文图片通用样式 */
+.content img {
+  display: block;
+  max-width: 80%; /* 图片最多占正文宽度的 80%，不会太大 */
+  height: auto;
+  margin: 1.2em auto; /* 上下间距 + 居中 */
+  border-radius: 6px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer; /* 鼠标悬停有提示 */
+}
+
+/* 悬停效果：轻微放大 + 阴影 */
+.content img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* 如果是链接里的图片（比如 logo、图标），保持 inline 小尺寸 */
+.content a img {
+  display: inline-block;
+  max-width: 100px; /* 链接里的图不需要太大 */
+  margin: 0 5px;
+  vertical-align: middle;
 }
 
 dl,
@@ -66,4 +91,17 @@ table tr td {
   height: 30px;
   display: block;
   background-size: contain;
+}
+
+/* 去掉 medium-zoom 默认的鼠标放大镜效果 */
+img.medium-zoom-image {
+  cursor: default !important;
+}
+
+/* 📱 手机端优化 */
+@media (max-width: 768px) {
+  .content img {
+    max-width: 100%; /* 手机端图片占满容器宽度 */
+    margin: 1em auto; /* 调整间距，避免太挤 */
+  }
 }

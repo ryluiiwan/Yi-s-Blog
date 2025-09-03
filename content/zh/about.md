@@ -12,7 +12,7 @@ weight: 50
 
 希望可以成为一个内心强大的人。
 
-![测试图片](/images/p1.jpg)
+![测试图片](/images/about.jpg)
 
 ## 🥂 许愿池
 

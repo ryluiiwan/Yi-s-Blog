@@ -118,8 +118,36 @@
         
         
         
+            <dt class="col-md-3"><span class="badge badge-secondary">1</span> article tagged</dt>
+            <dd class="col-md-9"><a href="http://localhost:1313/en/tag/images/">images</a></dd>
+        
+      
+        
+        
+        
             <dt class="col-md-3"><span class="badge badge-secondary">3</span> articles tagged</dt>
             <dd class="col-md-9"><a href="http://localhost:1313/en/tag/life/">life</a></dd>
+        
+      
+        
+        
+        
+            <dt class="col-md-3"><span class="badge badge-secondary">1</span> article tagged</dt>
+            <dd class="col-md-9"><a href="http://localhost:1313/en/tag/preview/">preview</a></dd>
+        
+      
+        
+        
+        
+            <dt class="col-md-3"><span class="badge badge-secondary">1</span> article tagged</dt>
+            <dd class="col-md-9"><a href="http://localhost:1313/en/tag/shortcodes/">shortcodes</a></dd>
+        
+      
+        
+        
+        
+            <dt class="col-md-3"><span class="badge badge-secondary">1</span> article tagged</dt>
+            <dd class="col-md-9"><a href="http://localhost:1313/en/tag/tutorial/">tutorial</a></dd>
         
       
       </dl>
@@ -222,9 +250,11 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
 <script>
-  mediumZoom("article img", {
-    background: "rgba(0,0,0,0.8)",
-    margin: 24,
+  document.addEventListener("DOMContentLoaded", function () {
+    mediumZoom(".content img, article img", {
+      background: "rgba(0,0,0,0.8)",
+      margin: 24,
+    });
   });
 </script>
 <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -51,9 +51,13 @@ defaultContentLanguageInSubdir = true
 # ---- Other Params ------------------- #
 # ------------------------------------- #
 
+
 [params]
   since = "2024"             # Site creation time
   rssFullContent = true      # set true to use full content instead of summary
+
+  favicon = "favicon.ico"
+  appleTouchIcon = "apple-touch-icon.png"
 
   # site info (optional)
   keywords = ["marketing","programming","python", "blog"]
