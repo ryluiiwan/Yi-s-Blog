@@ -2,7 +2,7 @@
 title: "VeSync联盟营销面经(Base重庆)"
 slug: review-interview
 date: "2025-09-15T11:11:20+08:00"
-draft: true
+draft: false
 lastmod: "2025-09-15T11:11:20+08:00"
 tags: ["Blog"]
 categories: ["thinking"]
