@@ -9,49 +9,56 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/zh/2025/09/14/%2309%E8%BF%87%E5%8E%BB%E8%BF%99%E5%8D%8A%E5%B9%B4/</loc>
-    <lastmod>2025-09-14T17:29:37+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/zh/tag/blog/</loc>
-    <lastmod>2025-09-14T17:29:37+08:00</lastmod>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/categories/</loc>
-    <lastmod>2025-09-14T17:29:37+08:00</lastmod>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/posts/</loc>
-    <lastmod>2025-09-14T17:29:37+08:00</lastmod>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/</loc>
-    <lastmod>2025-09-14T17:29:37+08:00</lastmod>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/tags/</loc>
-    <lastmod>2025-09-14T17:29:37+08:00</lastmod>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/zh/category/thinking/</loc>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/2025/09/15/review-interview/</loc>
+    <lastmod>2025-09-15T11:11:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/2025/09/14/09-half-year-life/</loc>
     <lastmod>2025-09-14T17:29:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
