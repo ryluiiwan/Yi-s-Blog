@@ -9,6 +9,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 授予对仓库内容的写权限
 
     steps:
       # 拉取仓库
