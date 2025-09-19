@@ -23,18 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-09-18 02:54:09_
+_Last update: 2025-09-19 02:57:41_
 
-- [读过杀死一只知更鸟](https://book.douban.com/subject/26879778/)  (2025-09-13)
-- [读过人生设计课](https://book.douban.com/subject/35812149/)  (2025-09-06)
-- [读过失明症漫记](https://book.douban.com/subject/35984787/)  (2025-08-31)
-- [看过岁月神偷](https://movie.douban.com/subject/3792799/)  (2025-08-26)
-- [读过打开心智](https://book.douban.com/subject/36089614/)  (2025-08-25)
-- [看过大法官金斯伯格](https://movie.douban.com/subject/27615467/)  (2025-08-24)
-- [看过捕风追影](https://movie.douban.com/subject/36600459/)  (2025-08-24)
-- [读过夜航西飞](https://book.douban.com/subject/30187222/)  (2025-08-21)
-- [读过大众文化的女性主义指南](https://book.douban.com/subject/36930643/)  (2025-08-17)
-- [看过我可能不会爱你](https://movie.douban.com/subject/6129693/)  (2025-08-11)
+
 
 <!-- douban end -->
 
