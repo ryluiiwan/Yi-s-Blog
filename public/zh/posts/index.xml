@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Ryluiiwan</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 15 Sep 2025 11:11:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 21:16:31 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Ai Tools]一个简单的头像生成器</title>
+      <link>http://localhost:1313/zh/2025/09/29/ai-avatar-generator/</link>
+      <pubDate>Mon, 29 Sep 2025 21:16:31 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2025/09/29/ai-avatar-generator/</guid>
+      <description>1 小时快速构建自己的 AI 小工具，此项目参考Andy 四海为家的教程，使用 Next.js 框架、最后 Vercel 部署上线，全部使用 Claude Sonnet4 完成，不用写一句代码。 🎇1. 主要功能</description>
+    </item>
     <item>
       <title>VeSync联盟营销面经(Base重庆)</title>
       <link>http://localhost:1313/zh/2025/09/15/review-interview/</link>

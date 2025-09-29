@@ -3,17 +3,17 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta name="generator" content="Hugo 0.128.2" />
   <meta charset="utf-8">
-  <title>VeSync联盟营销面经(Base重庆) · Ryluiiwan</title><meta
+  <title>[Ai MiniTools]一个简单的头像生成器 · Ryluiiwan</title><meta
   name="viewport"
   content="width=device-width, initial-scale=1, shrink-to-fit=no"
 />
-<meta name="description" content="上周一视频面试面的这个岗位，是被小红书上 id 叫闲余的姐妹内推的，投了简历之后很快进入一面环节。个人 BG 小两年的红人经验，主要是 TikTok&#43;In" />
+<meta name="description" content="1 小时快速构建自己的 AI 小工具，此项目参考Andy 四海为家的教程，使用 Next.js 框架、最后 Vercel 部署上线，全部使用 Claude Sonnet4 完成，不用写一句代码。 🎇1. 主要功能" />
  <meta
   name="keywords"
   content="marketing, programming, python, blog"
 />
 
-<link rel="canonical" href="http://localhost:1313/zh/2025/09/15/review-interview/" />
+<link rel="canonical" href="http://localhost:1313/zh/2025/09/29/ai-avatar-generator/" />
 
 
 
@@ -100,10 +100,10 @@
   <div class="row">
     <div class="col-lg-12">
       <div class="header-content">
-        <h1 class="header-title">VeSync联盟营销面经(Base重庆)</h1>
+        <h1 class="header-title">[Ai MiniTools]一个简单的头像生成器</h1>
         <p class="header-date">作者： Nuoyi Lu  
-          | <span>390 字| 1 分钟 |</span>
-           发表于 2025-09-15 |
+          | <span>1455 字| 3 分钟 |</span>
+           发表于 2025-09-29 |
           分类： <a href="http://localhost:1313/zh/category/learning/">learning</a>
         </p>
         
@@ -112,7 +112,7 @@
         <div class="clearfix"></div>
         <p class="float-right header-tags">
           <i class="fas fa-tags" aria-hidden="true"></i>
-          <a href="http://localhost:1313/zh/tag/blog/">Blog</a>
+          <a href="http://localhost:1313/zh/tag/ai/">Ai</a>
         </p>
          
 
@@ -124,17 +124,64 @@
   </div>
   <main>
 <div class="container content">
-  <article><p>上周一视频面试面的这个岗位，是被小红书上 id 叫闲余的姐妹内推的，投了简历之后很快进入一面环节。个人 BG 小两年的红人经验，主要是 TikTok+Instagram。</p>
-<ol>
-<li>首先是自我介绍，大概 3 分钟左右，简单介绍下自己的工作经历；</li>
-<li>为什么从上一家公司离职，每次离职都是什么原因做出的选择；</li>
-<li>请说一个做得比较好的 campaign，你们当时是怎么做的；对于红人有没有什么激励措施；</li>
-<li>你认为一个推广方案要怎么来制定；</li>
-<li>你对于联盟营销的理解是什么；</li>
-</ol>
-<p>大概是这些问题，她们主要是做德国市场的亚马逊联盟营销，当时面试下来大概花了 50 分钟左右，体验还不错，面试官介绍得很仔细也很坦诚，就是没有提成，我当时很诧异，说是整个公司都没有提成制度。面试完感觉自己在推广方案那里回答得很差，没有准备到这个问题，可以在<a href="https://ryluiiwan.com/zh/2025/09/14/09-half-year-life/">#09 过去这半年</a>看到我的反思。</p>
-<p>整个进度还是挺快的，上周三就收到了感谢信，简历进入了储备库，一面挂，接着投其他的简历。
-<img alt="Thanks Letter" src="/images/Interview.png"></p>
+  <article><p>1 小时快速构建自己的 AI 小工具，此项目参考<a href="https://andyroamer.com/articles/ai-code-claude-website">Andy 四海为家</a>的教程，使用 Next.js 框架、最后 Vercel 部署上线，全部使用 <a href="https://claude.ai/">Claude Sonnet4</a> 完成，不用写一句代码。</p>
+<h2 id="1-主要功能">🎇1. 主要功能：</h2>
+<p>用户输入关键词并选择想要的图片风格(卡通动漫、Q 版头像、赛博朋克、蒸汽波、像素风、Emoji)调用 SD3 的 API 来生成头像，用户可以选择两种图片格式来下载生成的头像。</p>
+<p>👉 快来试一下：<a href="https://avatar-five-alpha.vercel.app/">AI 头像生成器</a></p>
+<p>📦 仓库地址：<a href="https://github.com/ryluiiwan/avatar">Github</a></p>
+<h2 id="2-项目结构">📄2. 项目结构</h2>
+<pre tabindex="0"><code>avatar/
+├── app/
+│ ├── page.tsx # 前端页面
+│ ├── api/
+│ │ └── avatar/
+│ │ └── route.ts # 后端 API
+│ ├── globals.css # 全局样式
+│ └── layout.tsx # 布局文件
+├── .env.local # 环境变量
+├── package.json # 依赖配置
+├── tailwind.config.js # Tailwind 配置
+├── tsconfig.json # TypeScript 配置
+└── next.config.js # Next.js 配置
+</code></pre><h2 id="3-快速开始">🚀3. 快速开始</h2>
+<p>前置环境：</p>
+<ul>
+<li>Node.js 18.18 或以上版本</li>
+<li>MacOs / Windows / Linux</li>
+</ul>
+<h3 id="安装-nextjs-框架">安装 Next.js 框架</h3>
+<p>首先安装打开<a href="https://nextjs.org/docs/app/getting-started/installation">Next.js</a>官网下载框架,在终端(Terminal)运行以下命令：</p>
+<pre tabindex="0"><code>npx create-next-app@latest
+</code></pre><p><em>BUG</em>: 卡在第一步，需要检查一下自己的代理的端口号, 然后在 VS code 的终端输入下面的命令,注意将 10808 替换为自己的代理端口号：</p>
+<p><img alt="端口号" src="/images/Avatar/01.png"></p>
+<pre tabindex="0"><code>$env:http_proxy = &#34;http://127.0.0.1:10808&#34;
+回车后再输入
+$env:http_proxy = &#34;https://127.0.0.1:10808&#34;
+</code></pre><p><img alt="下载成功提示" src="/images/Avatar/02.png"></p>
+<p>下载成功后，进入该项目，并输入如下命令，启动该项目,就可以在本地来调试访问了：</p>
+<pre tabindex="0"><code>npm run dev
+</code></pre><h3 id="claude-code-生成代码本地调试">Claude Code 生成代码，本地调试</h3>
+<p>Prompt 指令，仅供参考，生成的代码需要不断地让 Claude 来 debug。</p>
+<pre tabindex="0"><code>我想制作一个AI头像生成器 调用Stable diffusion3 接口来生成512px×512px的社交媒体头像 用户输入内容 输出头像 主要框架是Next.js 是app路由 tailwindcss typescript语法 我现在在本地windows电脑进行调试 之后会部署到vercel上
+
+前端页面可以输入内容框、选择对应的风格（证件照 卡通动漫 Q版头像 赛博朋克 蒸汽波 像素风 emoji风格）你需要提前写好各个风格的promote指令和用户输入内容构建一个完整的promote指令、生成之后可以看到对应图片
+
+我的前端页面路径是avatar\app\page.tsx 后端页面路径是avatar\app\api\avatar\route.ts
+
+后端页面调用SD3的接口，需要遵循SD3的官方接口规范 接口规范如下 import fs from &#34;node:fs&#34;; import axios from &#34;axios&#34;; import FormData from &#34;form-data&#34;; const payload = { prompt: &#34;Lighthouse on a cliff overlooking the ocean&#34;, output_format: &#34;webp&#34; }; const response = await axios.postForm( https://api.stability.ai/v2beta/stable-image/generate/ultra, axios.toFormData(payload, new FormData()), { validateStatus: undefined, responseType: &#34;arraybuffer&#34;, headers: { Authorization: Bearer sk-MYAPIKEY, Accept: &#34;image/*&#34; }, }, ); if(response.status === 200) { fs.writeFileSync(&#34;./lighthouse.webp&#34;, Buffer.from(response.data)); } else { throw new Error(${response.status}: ${response.data.toString()}); } 现在给我完整代码
+</code></pre><p>Claude 生成的代码，需要按照 <code>📄2. 项目结构</code>中的结构复制到对应的文件中。
+<img alt="Claude生成代码" src="/images/Avatar/03.png"></p>
+<p>环境变量文件需要自己新建一个，里面是 SD3 的 API key，注册<a href="https://platform.stability.ai/account/keys">SD3</a>之后，每个账户会有一定的免费额度来使用，复制这个密钥，在<code>.env.local</code>文件中输入：</p>
+<pre tabindex="0"><code>STABILITY_API_KEY=Your Key
+</code></pre><p>碎碎念：中间的 debug 步骤省略，太乱了，脑子都忘记是怎么解决了，把遇到的日志文件全部粘贴给 Claude，它会帮你来更新最新版本的 code，反正就是遇到问题解决问题，全部让 AI 来解决，不过改到后面真的蛮乱的代码改了小 10 个 version，所以版本控制还是挺重要的，另外感觉还是要去学一下 Next.js，懂点儿代码改起来都没那么费劲。</p>
+<h3 id="vercel-部署上线">Vercel 部署上线</h3>
+<p>在使用 Vercel 部署上线前，需要将本地的代码 push 到 github 仓库，在 VS code 里面全部可以傻瓜式完成，都不用<code>git add .</code>、<code>git commit -m &quot;&quot;</code>、<code>git push</code>。</p>
+<p>注册 <a href="https://vercel.com/">Vercel</a>，我选择的是使用 github 登录，导入自己仓库的项目，Vercel 会自动开始部署，并分配一个免费的域名。</p>
+<p><img alt="Vercel部署" src="/images/Avatar/04.png"></p>
+<p>注意：因为 API Key 的隐私性问题，这个环境需要在 Vercel 项目设置那里更改一下，将原来环境变量里面的 API keyu 复制到项目环境那里，如下图所示：</p>
+<p><img alt="Vercel部署" src="/images/Avatar/05.png"></p>
+<p>后续可以购买域名，添加 DNS 解析，懒得折腾了，不过真的现在 AI 的发展很迅速，制作一个产品的门槛与成本已经大大降低，像我对前端只懂点 HTML 和 CSS 的人来说能这么快就造个小玩具出来，感觉快被时代淘汰了哈哈哈哈。</p>
+<p>&mdash;END&mdash;</p>
 </article>
 
      <div class="author-card">

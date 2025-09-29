@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Ryluiiwan</title>
+    <link>http://localhost:1313/zh/tag/ai/</link>
+    <description>Recent content in Ai on Ryluiiwan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 29 Sep 2025 21:16:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Ai Tools]一个简单的头像生成器</title>
+      <link>http://localhost:1313/zh/2025/09/29/ai-avatar-generator/</link>
+      <pubDate>Mon, 29 Sep 2025 21:16:31 +0800</pubDate>
+      <guid>http://localhost:1313/zh/2025/09/29/ai-avatar-generator/</guid>
+      <description>1 小时快速构建自己的 AI 小工具，此项目参考Andy 四海为家的教程，使用 Next.js 框架、最后 Vercel 部署上线，全部使用 Claude Sonnet4 完成，不用写一句代码。 🎇1. 主要功能</description>
+    </item>
+  </channel>
+</rss>

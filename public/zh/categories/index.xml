@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Ryluiiwan</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 15 Sep 2025 11:11:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 21:16:31 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/zh/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Thinking</title>
-      <link>http://localhost:1313/zh/category/thinking/</link>
-      <pubDate>Mon, 15 Sep 2025 11:11:20 +0800</pubDate>
-      <guid>http://localhost:1313/zh/category/thinking/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Learning</title>
       <link>http://localhost:1313/zh/category/learning/</link>
-      <pubDate>Thu, 23 Jan 2025 18:01:58 +0800</pubDate>
+      <pubDate>Mon, 29 Sep 2025 21:16:31 +0800</pubDate>
       <guid>http://localhost:1313/zh/category/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thinking</title>
+      <link>http://localhost:1313/zh/category/thinking/</link>
+      <pubDate>Sun, 14 Sep 2025 17:29:37 +0800</pubDate>
+      <guid>http://localhost:1313/zh/category/thinking/</guid>
       <description></description>
     </item>
     <item>
