@@ -23,8 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-10-03 02:53:34_
+_Last update: 2025-10-04 02:46:20_
 
+- [读过当下的力量（白金版）](https://book.douban.com/subject/26815948/)  (2025-10-03)
 - [看过人生七年8](https://movie.douban.com/subject/10748226/)  (2025-09-25)
 - [看过伊丽莎白镇](https://movie.douban.com/subject/1419933/)  (2025-09-24)
 - [读过足利女童连续失踪事件](https://book.douban.com/subject/35776315/)  (2025-09-20)
@@ -34,7 +35,6 @@ _Last update: 2025-10-03 02:53:34_
 - [看过岁月神偷](https://movie.douban.com/subject/3792799/)  (2025-08-26)
 - [读过打开心智](https://book.douban.com/subject/36089614/)  (2025-08-25)
 - [看过大法官金斯伯格](https://movie.douban.com/subject/27615467/)  (2025-08-24)
-- [看过捕风追影](https://movie.douban.com/subject/36600459/)  (2025-08-24)
 
 <!-- douban end -->
 
