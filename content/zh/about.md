@@ -23,18 +23,18 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-09-29 03:01:11_
+_Last update: 2025-10-06 02:58:23_
 
+- [读过秋园](https://book.douban.com/subject/34998019/)  (2025-10-05)
+- [看过伦敦生活 第二季](https://movie.douban.com/subject/27053768/)  (2025-10-05)
+- [看过伦敦生活 第一季](https://movie.douban.com/subject/26838164/)  (2025-10-04)
+- [读过当下的力量（白金版）](https://book.douban.com/subject/26815948/)  (2025-10-03)
 - [看过人生七年8](https://movie.douban.com/subject/10748226/)  (2025-09-25)
 - [看过伊丽莎白镇](https://movie.douban.com/subject/1419933/)  (2025-09-24)
 - [读过足利女童连续失踪事件](https://book.douban.com/subject/35776315/)  (2025-09-20)
 - [读过杀死一只知更鸟](https://book.douban.com/subject/26879778/)  (2025-09-13)
 - [读过人生设计课](https://book.douban.com/subject/35812149/)  (2025-09-06)
 - [读过失明症漫记](https://book.douban.com/subject/35984787/)  (2025-08-31)
-- [看过岁月神偷](https://movie.douban.com/subject/3792799/)  (2025-08-26)
-- [读过打开心智](https://book.douban.com/subject/36089614/)  (2025-08-25)
-- [看过大法官金斯伯格](https://movie.douban.com/subject/27615467/)  (2025-08-24)
-- [看过捕风追影](https://movie.douban.com/subject/36600459/)  (2025-08-24)
 
 <!-- douban end -->
 
