@@ -42,6 +42,7 @@ defaultContentLanguageInSubdir = true
 [author]                     # required
   name = "Nuoyi Lu"
 
+
 [sitemap]                    # required
   changefreq = "weekly"
   priority = 0.5
@@ -58,6 +59,7 @@ defaultContentLanguageInSubdir = true
 
   favicon = "/favicon.ico"
   appleTouchIcon = "/apple-touch-icon.png"
+  showComments = true
 
   # site info (optional)
   keywords = ["marketing","programming","python", "blog"]
