@@ -40,6 +40,7 @@
 
 /* 为 Waline 的主容器设置与文章内容相似的最大宽度，并让它水平居中 */
 #waline {
+  width: 100%;
   max-width: 800px; /* 这个数值可以根据你的主题微调，800px 是一个常见值 */
   margin-left: auto;
   margin-right: auto;
