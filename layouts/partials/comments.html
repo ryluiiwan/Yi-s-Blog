@@ -1,34 +1,39 @@
-<!-- Disqus -->
-{{ if .Site.DisqusShortname -}}
-<div class="disqus-comment">
-<div>
-<div class="comment-underline"></div>
-</div>
-<div class="btn btn-secondary disqus-button" id="load_disqus" onclick="load_disqus()">
-  {{ i18n "load_disqus" }}
-</div>
-<div id="disqus_thread"></div>
-<script>
-  var disqus_config = function () {
-    this.page.url = {{ .Permalink }};
-  };
-  function load_disqus() {
-    // Don't ever inject Disqus on localhost--it creates unwanted
-    // discussions from 'localhost:1313' on your Disqus account...
-    if (window.location.hostname === 'localhost') return;
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+/>
 
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = '{{ .Site.DisqusShortname }}';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    dsq.setAttribute('data-timestamp', +new Date());
-    (document.head || document.body).appendChild(dsq);
+<div id="waline"></div>
 
-    $('#load_disqus').remove();
-  };
+<script type="module">
+  import { init } from "https://unpkg.com/@waline/client@v2/dist/waline.mjs";
+
+  init({
+    el: "#waline",
+    // 确保这里已经改成了您自己的 Waline 服务地址！
+    serverURL: "https://my-blog-comment-ten.vercel.app/",
+    lang: "zh-CN",
+    locale: { placeholder: "欢迎留下你的足迹~" },
+    wordLimit: 500,
+    search: false,
+    pageview: true,
+    emoji: [
+      "//unpkg.com/@waline/emojis@1.2.0/bmoji",
+      "//unpkg.com/@waline/emojis@1.2.0/tieba",
+    ],
+    dark: 'html[class="scroll-smooth dark"]',
+  });
 </script>
-<noscript>Please enable JavaScript to view the
-  <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-<!-- <a href="http://disqus.com/" class="dsq-brlink" target="_blank">comments powered by <span class="logo-disqus">Disqus</span></a> -->
-</div>
-{{ end }}
+
+<style>
+  /* 日间模式 */
+  :root {
+    /* 字体大小 */
+    --waline-font-size: 16px;
+    /* ...省略其他样式... */
+  }
+  /* 暗黑模式 */
+  /* html[class="scroll-smooth dark"] { */
+    /* ...省略其他样式... */
+  }
+</style>
