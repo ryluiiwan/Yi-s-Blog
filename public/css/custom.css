@@ -36,6 +36,17 @@
   margin: 0 5px;
   vertical-align: middle;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 让内部所有元素都居中对齐 */
+}
+
+.author-card {
+  width: 100%;
+  max-width: 800px; /* 与评论区保持一致 */
+}
 /* --- 评论区样式调整 --- */
 
 /* 为 Waline 的主容器设置与文章内容相似的最大宽度，并让它水平居中 */
