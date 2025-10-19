@@ -23,8 +23,10 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-10-18 02:51:54_
+_Last update: 2025-10-19 03:12:22_
 
+- [看过浪浪人生](https://movie.douban.com/subject/36207392/)  (2025-10-19)
+- [看过律政俏佳人](https://movie.douban.com/subject/1304854/)  (2025-10-19)
 - [读过芭芭雅嘎下了个蛋](https://book.douban.com/subject/36897062/)  (2025-10-12)
 - [看过幸福伽菜子的快乐杀手生活](https://movie.douban.com/subject/36883141/)  (2025-10-08)
 - [读过秋园](https://book.douban.com/subject/34998019/)  (2025-10-05)
@@ -33,8 +35,6 @@ _Last update: 2025-10-18 02:51:54_
 - [读过当下的力量](https://book.douban.com/subject/26815948/)  (2025-10-03)
 - [看过人生七年8](https://movie.douban.com/subject/10748226/)  (2025-09-25)
 - [看过伊丽莎白镇](https://movie.douban.com/subject/1419933/)  (2025-09-24)
-- [读过足利女童连续失踪事件](https://book.douban.com/subject/35776315/)  (2025-09-20)
-- [读过杀死一只知更鸟](https://book.douban.com/subject/26879778/)  (2025-09-13)
 
 <!-- douban end -->
 
