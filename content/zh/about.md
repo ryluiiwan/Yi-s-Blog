@@ -23,8 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-11-04 03:06:35_
+_Last update: 2025-11-05 03:08:01_
 
+- [读过沧浪之水](https://book.douban.com/subject/1054917/)  (2025-11-04)
 - [读过心流](https://book.douban.com/subject/27186106/)  (2025-10-31)
 - [读过服美役](https://book.douban.com/subject/36698279/)  (2025-10-19)
 - [看过浪浪人生](https://movie.douban.com/subject/36207392/)  (2025-10-19)
@@ -34,7 +35,6 @@ _Last update: 2025-11-04 03:06:35_
 - [读过秋园](https://book.douban.com/subject/34998019/)  (2025-10-05)
 - [看过伦敦生活 第二季](https://movie.douban.com/subject/27053768/)  (2025-10-05)
 - [看过伦敦生活 第一季](https://movie.douban.com/subject/26838164/)  (2025-10-04)
-- [读过当下的力量](https://book.douban.com/subject/26815948/)  (2025-10-03)
 
 <!-- douban end -->
 
