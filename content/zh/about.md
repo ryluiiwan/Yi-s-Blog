@@ -23,8 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-11-06 03:10:39_
+_Last update: 2025-11-07 03:07:06_
 
+- [读过父亲的解放日志](https://book.douban.com/subject/37200304/)  (2025-11-06)
 - [读过沧浪之水](https://book.douban.com/subject/1054917/)  (2025-11-04)
 - [读过心流](https://book.douban.com/subject/27186106/)  (2025-10-31)
 - [读过服美役](https://book.douban.com/subject/36698279/)  (2025-10-19)
@@ -34,7 +35,6 @@ _Last update: 2025-11-06 03:10:39_
 - [看过幸福伽菜子的快乐杀手生活](https://movie.douban.com/subject/36883141/)  (2025-10-08)
 - [读过秋园](https://book.douban.com/subject/34998019/)  (2025-10-05)
 - [看过伦敦生活 第二季](https://movie.douban.com/subject/27053768/)  (2025-10-05)
-- [看过伦敦生活 第一季](https://movie.douban.com/subject/26838164/)  (2025-10-04)
 
 <!-- douban end -->
 
