@@ -23,8 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-11-27 03:07:57_
+_Last update: 2025-11-28 03:08:01_
 
+- [看过都是她的错](https://movie.douban.com/subject/36778966/)  (2025-11-27)
 - [读过包法利夫人](https://book.douban.com/subject/26666259/)  (2025-11-23)
 - [看过白莲花度假村 第三季](https://movie.douban.com/subject/36161782/)  (2025-11-13)
 - [看过白莲花度假村 第二季](https://movie.douban.com/subject/35561222/)  (2025-11-11)
@@ -34,7 +35,6 @@ _Last update: 2025-11-27 03:07:57_
 - [读过心流](https://book.douban.com/subject/27186106/)  (2025-10-31)
 - [读过服美役](https://book.douban.com/subject/36698279/)  (2025-10-19)
 - [看过浪浪人生](https://movie.douban.com/subject/36207392/)  (2025-10-19)
-- [看过律政俏佳人](https://movie.douban.com/subject/1304854/)  (2025-10-19)
 
 <!-- douban end -->
 
