@@ -23,9 +23,18 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2025-12-14 03:25:17_
+_Last update: 2025-12-15 03:26:27_
 
-
+- [看过疯狂动物城2](https://movie.douban.com/subject/26817136/)  (2025-12-07)
+- [看过守护解放西6](https://movie.douban.com/subject/37414982/)  (2025-12-06)
+- [看过都是她的错](https://movie.douban.com/subject/36778966/)  (2025-11-27)
+- [读过包法利夫人](https://book.douban.com/subject/26666259/)  (2025-11-23)
+- [看过白莲花度假村 第三季](https://movie.douban.com/subject/36161782/)  (2025-11-13)
+- [看过白莲花度假村 第二季](https://movie.douban.com/subject/35561222/)  (2025-11-11)
+- [看过白莲花度假村 第一季](https://movie.douban.com/subject/35506348/)  (2025-11-07)
+- [读过父亲的解放日志](https://book.douban.com/subject/37200304/)  (2025-11-06)
+- [读过沧浪之水](https://book.douban.com/subject/1054917/)  (2025-11-04)
+- [读过心流](https://book.douban.com/subject/27186106/)  (2025-10-31)
 
 <!-- douban end -->
 
