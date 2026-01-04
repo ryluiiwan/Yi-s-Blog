@@ -23,8 +23,11 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-01-03 03:18:26_
+_Last update: 2026-01-04 03:46:46_
 
+- [看过排球少年 第三季](https://movie.douban.com/subject/26752075/)  (2026-01-03)
+- [读过百年孤独](https://book.douban.com/subject/6082808/)  (2026-01-03)
+- [看过排球少年 第二季](https://movie.douban.com/subject/26285156/)  (2026-01-03)
 - [看过阿凡达：水之道](https://movie.douban.com/subject/4811774/)  (2026-01-01)
 - [看过排球少年](https://movie.douban.com/subject/25732103/)  (2026-01-01)
 - [看过阿凡达：火与烬](https://movie.douban.com/subject/5348089/)  (2025-12-21)
@@ -32,9 +35,6 @@ _Last update: 2026-01-03 03:18:26_
 - [看过疯狂动物城2](https://movie.douban.com/subject/26817136/)  (2025-12-07)
 - [看过守护解放西6](https://movie.douban.com/subject/37414982/)  (2025-12-06)
 - [看过都是她的错](https://movie.douban.com/subject/36778966/)  (2025-11-27)
-- [读过包法利夫人](https://book.douban.com/subject/26666259/)  (2025-11-23)
-- [看过白莲花度假村 第三季](https://movie.douban.com/subject/36161782/)  (2025-11-13)
-- [看过白莲花度假村 第二季](https://movie.douban.com/subject/35561222/)  (2025-11-11)
 
 <!-- douban end -->
 
