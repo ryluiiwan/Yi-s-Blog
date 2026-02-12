@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-02-11 04:26:46_
+_Last update: 2026-02-12 04:21:41_
 
 - [看过排球少年！！垃圾场决战](https://movie.douban.com/subject/36060209/)  (2026-01-27)
 - [读过空洞的心](https://book.douban.com/subject/36296679/)  (2026-01-24)
