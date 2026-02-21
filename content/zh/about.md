@@ -23,8 +23,11 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-02-20 04:10:53_
+_Last update: 2026-02-21 04:02:15_
 
+- [看过新闻女王2](https://movie.douban.com/subject/36680552/)  (2026-02-20)
+- [看过新闻女王](https://movie.douban.com/subject/36140095/)  (2026-02-20)
+- [看过克拉克森的农场 第一季](https://movie.douban.com/subject/34839005/)  (2026-02-20)
 - [看过排球少年！！垃圾场决战](https://movie.douban.com/subject/36060209/)  (2026-01-27)
 - [读过空洞的心](https://book.douban.com/subject/36296679/)  (2026-01-24)
 - [看过排球少年 第四季](https://movie.douban.com/subject/30411330/)  (2026-01-10)
@@ -32,9 +35,6 @@ _Last update: 2026-02-20 04:10:53_
 - [读过百年孤独](https://book.douban.com/subject/6082808/)  (2026-01-03)
 - [看过排球少年 第二季](https://movie.douban.com/subject/26285156/)  (2026-01-03)
 - [看过阿凡达：水之道](https://movie.douban.com/subject/4811774/)  (2026-01-01)
-- [看过排球少年](https://movie.douban.com/subject/25732103/)  (2026-01-01)
-- [看过阿凡达：火与烬](https://movie.douban.com/subject/5348089/)  (2025-12-21)
-- [读过健康的迷思](https://book.douban.com/subject/37317971/)  (2025-12-21)
 
 <!-- douban end -->
 
