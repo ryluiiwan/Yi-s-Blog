@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-02-21 04:02:15_
+_Last update: 2026-02-22 04:12:24_
 
 - [看过新闻女王2](https://movie.douban.com/subject/36680552/)  (2026-02-20)
 - [看过新闻女王](https://movie.douban.com/subject/36140095/)  (2026-02-20)
