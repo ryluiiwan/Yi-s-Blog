@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-03-06 04:05:38_
+_Last update: 2026-03-07 03:56:01_
 
 - [读过事件](https://book.douban.com/subject/36692820/)  (2026-03-01)
 - [读过原则](https://book.douban.com/subject/27608239/)  (2026-02-25)
