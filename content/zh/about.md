@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-07 04:35:07_
+_Last update: 2026-04-08 04:33:46_
 
 - [看过良医 第一季](https://movie.douban.com/subject/26888731/)  (2026-03-14)
 - [读过事件](https://book.douban.com/subject/36692820/)  (2026-03-01)
