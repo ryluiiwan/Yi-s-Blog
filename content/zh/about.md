@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-11 04:18:04_
+_Last update: 2026-04-12 04:43:31_
 
 - [看过挽救计划](https://movie.douban.com/subject/35010610/)  (2026-04-08)
 - [看过良医 第一季](https://movie.douban.com/subject/26888731/)  (2026-03-14)
