@@ -23,18 +23,18 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-12 04:43:31_
+_Last update: 2026-04-13 04:54:56_
 
+- [看过良医 第七季](https://movie.douban.com/subject/36370737/)  (2026-04-12)
+- [看过良医 第六季](https://movie.douban.com/subject/35840681/)  (2026-04-12)
+- [看过良医 第五季](https://movie.douban.com/subject/35451920/)  (2026-04-12)
+- [看过良医 第四季](https://movie.douban.com/subject/34965846/)  (2026-04-12)
+- [看过良医 第三季](https://movie.douban.com/subject/30454230/)  (2026-04-12)
+- [看过良医 第二季](https://movie.douban.com/subject/30163504/)  (2026-04-12)
+- [读过影响力](https://book.douban.com/subject/35637771/)  (2026-04-12)
 - [看过挽救计划](https://movie.douban.com/subject/35010610/)  (2026-04-08)
 - [看过良医 第一季](https://movie.douban.com/subject/26888731/)  (2026-03-14)
 - [读过事件](https://book.douban.com/subject/36692820/)  (2026-03-01)
-- [读过原则](https://book.douban.com/subject/27608239/)  (2026-02-25)
-- [看过新闻女王2](https://movie.douban.com/subject/36680552/)  (2026-02-20)
-- [看过新闻女王](https://movie.douban.com/subject/36140095/)  (2026-02-20)
-- [看过克拉克森的农场 第一季](https://movie.douban.com/subject/34839005/)  (2026-02-20)
-- [看过排球少年！！垃圾场决战](https://movie.douban.com/subject/36060209/)  (2026-01-27)
-- [读过空洞的心](https://book.douban.com/subject/36296679/)  (2026-01-24)
-- [看过排球少年 第四季](https://movie.douban.com/subject/30411330/)  (2026-01-10)
 
 <!-- douban end -->
 
