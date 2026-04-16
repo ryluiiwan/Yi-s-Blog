@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-15 04:42:43_
+_Last update: 2026-04-16 04:48:09_
 
 - [看过良医 第七季](https://movie.douban.com/subject/36370737/)  (2026-04-12)
 - [看过良医 第六季](https://movie.douban.com/subject/35840681/)  (2026-04-12)
