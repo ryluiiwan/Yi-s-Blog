@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-21 04:45:23_
+_Last update: 2026-04-22 04:42:56_
 
 - [看过少年法庭](https://movie.douban.com/subject/35248792/)  (2026-04-18)
 - [看过莎拉的真伪人生](https://movie.douban.com/subject/37019235/)  (2026-04-18)
