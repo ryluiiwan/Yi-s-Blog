@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-26 04:56:04_
+_Last update: 2026-04-27 05:19:33_
 
 - [读过挽救计划](https://book.douban.com/subject/35494160/)  (2026-04-22)
 - [看过少年法庭](https://movie.douban.com/subject/35248792/)  (2026-04-18)
