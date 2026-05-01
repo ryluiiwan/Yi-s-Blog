@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-04-30 05:26:31_
+_Last update: 2026-05-01 05:38:19_
 
 - [看过给阿嬷的情书](https://movie.douban.com/subject/37116446/)  (2026-04-28)
 - [读过挽救计划](https://book.douban.com/subject/35494160/)  (2026-04-22)
