@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thinking on Ryluiiwan</title>
     <link>http://localhost:1313/zh/category/thinking/</link>
@@ -13,84 +13,96 @@
       <link>http://localhost:1313/zh/2025/11/19/25%E5%B2%81%E7%9A%84%E8%87%AA%E7%99%BD/</link>
       <pubDate>Wed, 19 Nov 2025 20:13:21 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/11/19/25%E5%B2%81%E7%9A%84%E8%87%AA%E7%99%BD/</guid>
-      <description>正文搬运自我的小小公众号，没想到竟然被其他人看到。其实我的公众号也是我的一片自留地，偶尔在某个节点突然想开始码字，就打开公众号后台。 不知该怎</description>
+      <description>&lt;p&gt;正文搬运自我的小小公众号，没想到竟然被其他人看到。其实我的公众号也是我的一片自留地，偶尔在某个节点突然想开始码字，就打开公众号后台。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;公众号截图&#34; loading=&#34;lazy&#34; src=&#34;https://img.ryluiiwan.com/2026/04/test.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（26/04/25 突然想起自己还有个博客网站-每年域名要交10美金，然后白薅了Cloudflare赛博菩萨的羊毛做了图床，用PicGo上传图片:) 虽然被S3插件折腾好久上传失败 明明很简单的事情:D）&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>#09: 过去这半年</title>
       <link>http://localhost:1313/zh/2025/09/14/09-half-year-life/</link>
       <pubDate>Sun, 14 Sep 2025 17:29:37 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/09/14/09-half-year-life/</guid>
-      <description>这半年过得好快，快到感觉大脑一片空白，什么都没捕捉到。距离停下来也有一个月的时间，我也还是没有弄清楚自己想要什么样的生活。花了一些时间看完了</description>
+      <description>&lt;p&gt;这半年过得好快，快到感觉大脑一片空白，什么都没捕捉到。距离停下来也有一个月的时间，我也还是没有弄清楚自己想要什么样的生活。花了一些时间看完了&lt;a href=&#34;https://book.douban.com/subject/35812149/&#34;&gt;人生设计课:如何设计充实且快乐的人生&lt;/a&gt;这本书，也很想问问自己最近还好吗？&lt;/p&gt;</description>
     </item>
     <item>
       <title>S01E09: 3月日常困得睁不开眼，上班、吃饭、睡觉</title>
       <link>http://localhost:1313/zh/2025/03/22/s01e09-3%E6%9C%88%E6%97%A5%E5%B8%B8%E5%9B%B0%E5%BE%97%E7%9D%81%E4%B8%8D%E5%BC%80%E7%9C%BC%E4%B8%8A%E7%8F%AD%E5%90%83%E9%A5%AD%E7%9D%A1%E8%A7%89/</link>
       <pubDate>Sat, 22 Mar 2025 20:19:37 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/03/22/s01e09-3%E6%9C%88%E6%97%A5%E5%B8%B8%E5%9B%B0%E5%BE%97%E7%9D%81%E4%B8%8D%E5%BC%80%E7%9C%BC%E4%B8%8A%E7%8F%AD%E5%90%83%E9%A5%AD%E7%9D%A1%E8%A7%89/</guid>
-      <description>3 月初在自己的日记本上写月度计划，快到月末，也没有完成几个，工作真的占据了太多的时间，回到家晚上九点就啥也不想干了。练习写前端代码的进度就此</description>
+      <description>&lt;p&gt;3 月初在自己的日记本上写月度计划，快到月末，也没有完成几个，工作真的占据了太多的时间，回到家晚上九点就啥也不想干了。练习写前端代码的进度就此停滞，晚上下班走去地铁站的路上还会时不时问问自己这真的是想要的生活吗，肚子瘪瘪的空空的，像没了气的气球。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#08: 从2月到3月，面试开启牛马生活</title>
       <link>http://localhost:1313/zh/2025/02/16/08-job-life/</link>
       <pubDate>Sun, 16 Feb 2025 12:34:01 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/02/16/08-job-life/</guid>
-      <description>终于不上班的日子要到头了，计划是这个月就找到工作去打工。周一投了几个异地的工作和 HR 电话沟通了下，问东又问西，离职的原因在当下的环境中，不是大</description>
+      <description>&lt;p&gt;终于不上班的日子要到头了，计划是这个月就找到工作去打工。周一投了几个异地的工作和 HR 电话沟通了下，问东又问西，离职的原因在当下的环境中，不是大家都心知肚明的吗，还要粉饰一番说尽漂亮话，又开始问前司的规模、品牌名称像查户口一样，那个瞬间感觉想再挣扎一下都没有力气了，可能离开深圳的计划又要被搁浅了，我哭 😭&lt;/p&gt;</description>
     </item>
     <item>
       <title>#07: 春天快到了，追求幸福是一个伪命题</title>
       <link>http://localhost:1313/zh/2025/02/09/07-spring-is-comming/</link>
       <pubDate>Sun, 09 Feb 2025 15:34:10 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/02/09/07-spring-is-comming/</guid>
-      <description>前言 这周慢悠悠地看完了卡尔维诺的马可瓦尔多，钦佩于作者丰富的想象力与文字描述力，感觉他在大脑里面构建了另外一个不为人知的彩色的世界，实在是妙</description>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;这周慢悠悠地看完了卡尔维诺的&lt;a href=&#34;https://book.douban.com/subject/34799583/&#34;&gt;马可瓦尔多&lt;/a&gt;，钦佩于作者丰富的想象力与文字描述力，感觉他在大脑里面构建了另外一个不为人知的彩色的世界，实在是妙极了，最后感觉一切的一切都变成了一张白纸。马可瓦尔多是个带有浪漫色彩的城市小工，他用敏锐的眼睛观察着附近，灰色贫乏的生活透过他的眼睛看，也可以变得有趣起来，然而就在认为他是一个完全的浪漫主义者的时候，卡尔维诺总是会来一个转折，让马可瓦尔多也落入俗气之中，俗气和灵气可以同时存在，黑色幽默的写法一度让人啼笑皆非。&lt;/p&gt;
+&lt;p&gt;现在窗外的阳光正好，我听着我的歌单，一边感慨我的音乐品味，一边慢慢码字，写这篇类似于小学还是初中老师每周都要布置的&lt;code&gt;周记&lt;/code&gt;。每次抬头看向窗外都会看到到不远处房子旁边的一棵大树，那棵树就像是守护神一样庇护这两边的房子，它在去年冬天悄悄地消失了，好像一觉睡醒之后再也没有看到它。这周回来小出租屋，惊讶于窗外怎么灰扑扑一片，没有一点色彩，哦，原来是那棵树已经消失很久了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#06: 过年这几天，在细碎之处感受幸福</title>
       <link>http://localhost:1313/zh/2025/02/02/06-happy-chinese-new-year/</link>
       <pubDate>Sun, 02 Feb 2025 13:42:38 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/02/02/06-happy-chinese-new-year/</guid>
-      <description>👀 前言 继第二年过年没有回家，今年不是一个人过年，来了东莞在老姐家过年。因为过年，连看书的节奏都变慢了，每天带着两个侄子们玩，两岁的小孩和五岁</description>
+      <description>&lt;h2 id=&#34;-前言&#34;&gt;👀 前言&lt;/h2&gt;
+&lt;p&gt;继第二年过年没有回家，今年不是一个人过年，来了东莞在老姐家过年。因为过年，连看书的节奏都变慢了，每天带着两个侄子们玩，两岁的小孩和五岁的小孩，一个赛一个的捣蛋，连小孩子也知道我最好欺负，总是跑过来拽我眼镜抓我脸，我想我可以容忍这些并不是因为喜欢他们，只是因为他们是姐姐的小孩而已。小的时候，我总是跟着姐姐背后走，她回家会给我带好吃的小蛋糕、会带我买衣服、和我一起看电影、一起躺在我家的床上聊天睡觉、说一些我不知道的事情，那个时候，我觉得她是很厉害的大人，我很喜欢她。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#05: 在学HTML&amp;CSS，没有什么是永恒的</title>
       <link>http://localhost:1313/zh/2025/01/26/05-leanring-front-web/</link>
       <pubDate>Sun, 26 Jan 2025 08:59:11 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/01/26/05-leanring-front-web/</guid>
-      <description>前言 美好的生活。不一定在于物质的丰富。而在于找到属于自己的节奏和自由。 ————《我可能错了》 穿过一片黑夜，抬头还能看到零星几颗星星，扑闪扑闪</description>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美好的生活。不一定在于物质的丰富。而在于找到属于自己的节奏和自由。
+————《我可能错了》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;穿过一片黑夜，抬头还能看到零星几颗星星，扑闪扑闪地发着光。最近两周平均五天看完一本书，&lt;a href=&#34;https://book.douban.com/subject/27204805/&#34;&gt;《那不勒斯四部曲》&lt;/a&gt;、&lt;a href=&#34;https://book.douban.com/subject/36457094/&#34;&gt;《明亮的夜晚》&lt;/a&gt;、&lt;a href=&#34;https://book.douban.com/subject/36743030/&#34;&gt;《恶女的告白》这本名字叫“漫长的午后”才对&lt;/a&gt;，读这些深刻让我意识到“女性是一种处境”。虽然都是小说，分别都是写了不同的年代、不同的国家、不同社会背景下的女人，但在写女人之间互帮互助、惺惺相惜的独特情谊以及在写她们遭受父权制、大男子主义的压迫所受到的创伤却又无比地相似。在一本书中看到了另外好几本书，它们带给我的触感是相同的，偶尔明亮时常沉默又压抑。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#04: 遛弯公园晒太阳，一口气读完了那不勒斯四部曲</title>
       <link>http://localhost:1313/zh/2025/01/12/04-reading-shortwalk/</link>
       <pubDate>Sun, 12 Jan 2025 14:28:32 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/01/12/04-reading-shortwalk/</guid>
-      <description>喜欢冬天午后的太阳，晒在身上暖洋洋的，不管在北方还是南方，吃完饭后晒会儿太阳发呆，是一件极其惬意的事情。 😑 失眠小记 这篇文章虽然是在1 月 12 号就</description>
+      <description>&lt;p&gt;喜欢冬天午后的太阳，晒在身上暖洋洋的，不管在北方还是南方，吃完饭后晒会儿太阳发呆，是一件极其惬意的事情。&lt;/p&gt;
+&lt;h2 id=&#34;-失眠小记&#34;&gt;😑 失眠小记&lt;/h2&gt;
+&lt;p&gt;这篇文章虽然是在&lt;del&gt;1 月 12 号&lt;/del&gt;就 new 好的，但实际上是 1 月 19 号写的。最近几周因为住的房子隔音差的问题，入睡困难，因为在躺下睡意萌生快要睡着的时候被楼上咚咚咚的笨重又尖锐的脚步声一下子惊醒，好不容易睡着又被凌晨三四点不知道哪里传来的噪音被迫睁眼，然后失眠再也没有睡着。睡不好是件窒息又不知道怎么办的事情，一度怀疑我是噪敏的程度，一边刷着小红书的帖子寻找和我相似经历的人她们是怎么解决的，尝试向物业投诉通过第三方来解决，物业发了公告、提醒了楼上沉重的脚步声，但好像根本没有什么用。我现在对声音敏感的程度是听到某种声音就像猫咪应激的状态，好像打开某种开关就立刻睁眼一样的模式。睡不好的代价就是白天几乎都做不了什么，对什么都没有兴趣，眼睛永远都是半眯着的，更没有什么心力出门。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#03: 开启新的一年，不知道都做了些什么流水账周记</title>
       <link>http://localhost:1313/zh/2025/01/05/03-routine-byebye/</link>
       <pubDate>Sun, 05 Jan 2025 14:27:06 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/01/05/03-routine-byebye/</guid>
-      <description>“无所事事”是对这周状态最好的形容词。很奇怪的是，明明我自己很喜欢这种有点无聊、什么也不用做的状态，但我却无法心安理得地享受，总觉得自己应该</description>
+      <description>&lt;p&gt;“无所事事”是对这周状态最好的形容词。很奇怪的是，明明我自己很喜欢这种有点无聊、什么也不用做的状态，但我却无法心安理得地享受，总觉得自己应该利用这些时间做些什么，不能停止学习和进步。总是在‘先享受了再说’和‘啥也没做有些懊悔’的心理中来回反复横跳。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#02: 躺平又反复仰卧起坐的一周</title>
       <link>http://localhost:1313/zh/2024/12/29/02-a-week/</link>
       <pubDate>Sun, 29 Dec 2024 14:26:42 +0800</pubDate>
       <guid>http://localhost:1313/zh/2024/12/29/02-a-week/</guid>
-      <description>这个月都深受楼上邻居的噪音困扰，沉重又时而尖锐的脚步声，时不时就从头顶传过来，早上六七点，晚上十二点，永远都想不到那种独特的“噪音”会在什么</description>
+      <description>&lt;p&gt;这个月都深受楼上邻居的噪音困扰，沉重又时而尖锐的脚步声，时不时就从头顶传过来，早上六七点，晚上十二点，永远都想不到那种独特的“噪音”会在什么时候又突然冒出来，睡眠质量大大降低。本就对声音比较敏感，现在愈发敏感，正在寻求各种解决方式中。&lt;/p&gt;</description>
     </item>
     <item>
       <title>#01: 最近都在干什么流水账日记</title>
       <link>http://localhost:1313/zh/2024/12/22/01-recently-life/</link>
       <pubDate>Sun, 22 Dec 2024 17:07:52 +0800</pubDate>
       <guid>http://localhost:1313/zh/2024/12/22/01-recently-life/</guid>
-      <description>感觉一切好像被按下了加速键一样，竟然已经十二月末。今年发生的一切开始模糊了起来，像蒙上了一层灰，上了年纪、对碎片化信息成瘾，导致脑子都生了锈</description>
+      <description>&lt;p&gt;感觉一切好像被按下了加速键一样，竟然已经十二月末。今年发生的一切开始模糊了起来，像蒙上了一层灰，上了年纪、对碎片化信息成瘾，导致脑子都生了锈上了锁，还得时不时敲敲脑壳，想想今夕是何年。从十几岁的时候，我就开始担心以后会不会得阿尔兹海默症，以前偶尔写自己的小小公众号，我创建了一个合集就叫“阿尔兹海默症潜在患者的回忆录”，在那个小小的角落里，偶尔频繁地记录着，希望自己不会忘记。&lt;/p&gt;</description>
     </item>
     <item>
       <title>在11月，开始了我的24岁</title>
       <link>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</link>
       <pubDate>Sat, 07 Dec 2024 12:11:08 +0800</pubDate>
       <guid>http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/</guid>
-      <description>上个月的 8 号是我 24 岁的生日，我都没有什么感觉，更没有什么仪式感去庆祝生日，甚至连我妈也忘了我的生日。我觉得年龄对我来说就是一个数字，我可以继</description>
+      <description>&lt;p&gt;上个月的 8 号是我 24 岁的生日，我都没有什么感觉，更没有什么仪式感去庆祝生日，甚至连我妈也忘了我的生日。我觉得年龄对我来说就是一个数字，我可以继续吃冰淇淋、踩水坑、观察超市里面的小螃蟹、发现一些可爱的小玩意儿，做一些小学生做的事情。长大可能就是允许自己得到双份快乐，大人的快乐和小孩的快乐全都要。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

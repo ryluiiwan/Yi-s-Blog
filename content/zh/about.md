@@ -8,7 +8,7 @@ weight: 50
 
 ## 👉 这里是 [ryluiiwan](http://ryluiiwan.com)
 
-前 TK 红人营销(臭卖货的)，现海外红人营销兼做社媒运营，想学习一些 Digital Marketing (SEO/Google Ads)的技能。本科是念的数据科学与大数据技术，略懂一些编程基础和一点点数据分析思路，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。
+前 TK 红人营销(臭卖货的)，现联盟营销专员(努力学习中)~~海外红人营销兼做社媒运营~~，另外想学习一些 Digital Marketing (SEO/Google Ads)的技能。本科是念的数据科学与大数据技术，略懂一些编程基础(Python、C、前端基础)和一点点数据分析思维(很多时候总感觉自己大学好像白上了一样，工作后发现大学接受的教育让我改变了自己的思维思考方式以及看世界的角度,我很感恩)，毕业之后几经蹉跎，误打误撞进入营销推广的行业。平时喜欢吃饭睡觉逛公园、数星星看月亮、阅读、和朋友们聊一些天马行空的东西，对探索事物的本质与规律有很强烈的兴趣。
 
 希望可以成为一个内心强大的人。
 
@@ -23,22 +23,31 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
+
 _Last update: 2026-04-25 04:32:54_
 
-- [读过挽救计划](https://book.douban.com/subject/35494160/)  (2026-04-22)
-- [看过少年法庭](https://movie.douban.com/subject/35248792/)  (2026-04-18)
-- [看过莎拉的真伪人生](https://movie.douban.com/subject/37019235/)  (2026-04-18)
-- [看过我，许可](https://movie.douban.com/subject/37332784/)  (2026-04-18)
-- [看过良医 第七季](https://movie.douban.com/subject/36370737/)  (2026-04-12)
-- [看过良医 第六季](https://movie.douban.com/subject/35840681/)  (2026-04-12)
-- [看过良医 第五季](https://movie.douban.com/subject/35451920/)  (2026-04-12)
-- [看过良医 第四季](https://movie.douban.com/subject/34965846/)  (2026-04-12)
-- [看过良医 第三季](https://movie.douban.com/subject/30454230/)  (2026-04-12)
-- [看过良医 第二季](https://movie.douban.com/subject/30163504/)  (2026-04-12)
+- [读过挽救计划](https://book.douban.com/subject/35494160/) (2026-04-22)
+- [看过少年法庭](https://movie.douban.com/subject/35248792/) (2026-04-18)
+- [看过莎拉的真伪人生](https://movie.douban.com/subject/37019235/) (2026-04-18)
+- [看过我，许可](https://movie.douban.com/subject/37332784/) (2026-04-18)
+- [看过良医 第七季](https://movie.douban.com/subject/36370737/) (2026-04-12)
+- [看过良医 第六季](https://movie.douban.com/subject/35840681/) (2026-04-12)
+- [看过良医 第五季](https://movie.douban.com/subject/35451920/) (2026-04-12)
+- [看过良医 第四季](https://movie.douban.com/subject/34965846/) (2026-04-12)
+- [看过良医 第三季](https://movie.douban.com/subject/30454230/) (2026-04-12)
+- [看过良医 第二季](https://movie.douban.com/subject/30163504/) (2026-04-12)
 
 <!-- douban end -->
 
 ## 💻 关于本站
+
+- 2024/12/07 创建，使用[Hugo-Den](https://github.com/shaform/hugo-theme-den)主题;主要更新记录个人生活
+
+- 2024/12/24 更新博客主页背景图，用上了[我的天才女友](https://movie.douban.com/subject/28427782/)的剧照图
+
+- 2026/05/24 更新博客主题，使用简洁的[Hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod/)
+
+![存档](https://img.ryluiiwan.com/2026/05/ryluiiwan.com.png)
 
 ## 👉2025 年读过
 

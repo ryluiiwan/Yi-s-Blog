@@ -1,104 +1,80 @@
-# ------------------------------------- #
-# ---- General Settings --------------- #
-# ------------------------------------- #
 baseURL = "https://ryluiiwan.com"
 title = "Ryluiiwan"
-theme = "hugo-theme-den"
-#enableRobotsTXT = true       # generate robots.txt
-enableEmoji = true           # use emoji support
-hasCJKLanguage = true        # detect CJK languages for word count etc.
-preserveTaxonomyNames = true # do not make tag names lowercase
-# uglyURLs = true            # more info: https://gohugo.io/content-management/urls/#ugly-urls
-rssLimit = 20                # limit number of entries in RSS feeds
+theme = "hugo-PaperMod"
+enableEmoji = true
+hasCJKLanguage = true
+rssLimit = 20
 
-# Copyright, appears in the footer
-# copyright = "Nuoyi Lu"             # default: author.name
+[pagination]
+  pagerSize = 20
+  path = "page"
 
-# Pagination
-# number of entries per page for archives, tags and categories
-# since we don't have list view, recommend a large value
-paginate = 20
-paginatePath = "page"
-
-# Syntax Hightlight
-PygmentsCodeFences = true
-PygmentsUseClasses = true    # required for shhighlight shortcode
-
-# service plugins
-disqusShortname = ""         # disqus_shortname
-googleAnalytics = ""         # UA-XXXXXXXX-X
-
-# language support # en / zh / other... translations present in i18n/
-defaultContentLanguage = "zh"           # Default language to use
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
-# Links format
-[permalinks]
-  posts = "/:year/:month/:day/:slug/"
-  categories = "/category/:slug/"      # required
-  tags = "/tag/:slug/"                 # required
-  pages = "/:slug/"
-
-[author]                     # required
+[author]
   name = "Nuoyi Lu"
 
-
-[sitemap]                    # required
+[sitemap]
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
-# ------------------------------------- #
-# ---- Other Params ------------------- #
-# ------------------------------------- #
-
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  categories = "/category/:slug/"
+  tags = "/tag/:slug/"
+  pages = "/:slug/"
 
 [params]
-  since = "2024"             # Site creation time
-  rssFullContent = true      # set true to use full content instead of summary
+  since = "2024"
+  env = "production"
+  description = "Be better"
+  keywords = ["marketing", "programming", "python", "blog"]
+  DateFormat = "2006-01-02"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowWordCount = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  comments = true
 
-  favicon = "/favicon.ico"
-  appleTouchIcon = "/apple-touch-icon.png"
-  showComments = true
+  [params.homeInfoParams]
+    Title = "RYLUIIWAN"
+    Content = "Be better"
 
-  # site info (optional)
-  keywords = ["marketing","programming","python", "blog"]
-  description = "做一只勇敢的羊"
-  logoTitle = "RYLUIIWAN" # shown on top-left, default: title
-  siteLogoImage = "images/header.png"     # shown besides logoTitle
-  # headerTitle = "Ryluiiwan"                   # default: title
-  headerImage = "images/background2.jpg"
-  showAuthorCard = true # Whether to show author information below the article
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/oyeahshalala/"
 
-  showMenuLanguages = true
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/Lunuoyi"
 
-  autoLoadComments = false # auto load comment when scrolling down
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:ryluiiwan348@gmail.com"
 
-  # paginate style, default use numbered pagination links
-  # if true, use original "Previous" and "Next" links.
-  # paginateOriginalStyle = true
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ryluiiwan"
 
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
-
-  google_verification = ""  # Google_Verification
-
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = ['custom.css']             # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+    noClasses = false
 
 # ------------------------------------- #
 # ---- Related Articles --------------- #
 # ------------------------------------- #
 [related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
   threshold = 50
-
-  # To get stable "See also" sections we, by default, exclude newer related pages.
   includeNewer = true
-
-  # Will lower case keywords in both queries and in the indexes.
   toLower = false
 
 [[related.indices]]
@@ -113,100 +89,87 @@ defaultContentLanguageInSubdir = true
   name = "tags"
   weight = 100
 
-
-[languages.en]
-  languageCode = "en"
-  languageName = "English"
-  contentDir = "content/en"
-  weight = 1
-
-  [languages.en.params]
-    description = "Be better"
-
-  [[languages.en.menu.main]]
-    name = "thinking"
-    weight = 10
-    identifier = "thinking"
-    url = "category/thinking/"
-  
-  [[languages.en.menu.social]]
-    name = "instagram"
-    weight = 10
-    identifier = "instagram"
-    url = "https://www.instagram.com/oyeahshalala/"
-  
-  [[languages.en.menu.social]]
-    name = "Twitter"
-    weight = 10
-    identifier = "Twitter"
-    url ="https://x.com/Lunuoyi"
-  
-  [[languages.en.menu.social]]
-    name = "Email"
-    weight = 10
-    identifier = "Email"
-    url ="mailto:ryluiiwan348@gmail.com"
-
-  [[languages.en.menu.main]]
-    name = "learning"
-    weight = 20
-    identifier = "learning"
-    url = "category/learning/"
-
-  [[languages.en.menu.links]]
-    name = "Yi's GitHub"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/ryluiiwan"
+# ------------------------------------- #
+# ---- Languages ---------------------- #
+# ------------------------------------- #
 
 [languages.zh]
   languageCode = "zh"
   languageName = "中文"
   contentDir = "content/zh"
-  weight = 2
+  weight = 1
 
   [languages.zh.params]
-    description = "做一只勇敢的羊"
+    description = "Be better"
+
+    [languages.zh.params.homeInfoParams]
+      Title = "RYLUIIWAN"
+      Content = "Be better"
+
+  [[languages.zh.menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
 
   [[languages.zh.menu.main]]
     name = "思考"
-    weight = 10
-    identifier = "thinking"
     url = "category/thinking/"
+    weight = 10
 
   [[languages.zh.menu.main]]
     name = "工具"
-    weight = 20
-    identifier = "tools"
     url = "category/tools/"
+    weight = 20
 
   [[languages.zh.menu.main]]
     name = "学习"
+    url = "category/learning/"
+    weight = 30
+
+  [[languages.zh.menu.main]]
+    name = "标签"
+    url = "tags/"
+    weight = 40
+
+  [[languages.zh.menu.main]]
+    name = "归档"
+    url = "archives/"
+    weight = 50
+
+[languages.en]
+  languageCode = "en"
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 2
+
+  [languages.en.params]
+    description = "Be better"
+
+    [languages.en.params.homeInfoParams]
+      Title = "RYLUIIWAN"
+      Content = "Be better"
+
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "Thinking"
+    url = "category/thinking/"
+    weight = 10
+
+  [[languages.en.menu.main]]
+    name = "Learning"
+    url = "category/learning/"
     weight = 20
-    identifier = "learning"
-    url = "category/learning"
 
+  [[languages.en.menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 40
 
-  [[languages.zh.menu.social]]
-    name = "instagram"
-    weight = 10
-    identifier = "instagram"
-    url = "https://www.instagram.com/oyeahshalala/"
-  
-  [[languages.zh.menu.social]]
-    name = "Twitter"
-    weight = 10
-    identifier = "Twitter"
-    url ="https://x.com/Lunuoyi"
-
-  [[languages.zh.menu.social]]
-    name = "Email"
-    weight = 10
-    identifier = "Email"
-    url ="mailto:ryluiiwan348@gmail.com"
-
-  [[languages.zh.menu.links]]
-    name = "Yi's GitHub"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/ryluiiwan"
+  [[languages.en.menu.main]]
+    name = "Archives"
+    url = "archives/"
+    weight = 50

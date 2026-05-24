@@ -1,12 +1,12 @@
 ---
-title: 'S01E03: Starting a New Year, A Journal Entry of What I Did'
+title: "S01E03: Starting a New Year, A Journal Entry of What I Did"
 date: "2025-01-05T14:27:06+08:00"
-draft: false
+draft: true
 lastmod: "2025-01-05T14:27:06+08:00"
-tags: ["Blog","Life"]
+tags: ["Blog", "Life"]
 categories: ["thinking"]
 authors:
-- "ryluiiwan"
+  - "ryluiiwan"
 ---
 
 "Doing nothing" best describes this week's state. Strangely, although I really enjoy this slightly boring state where I don't have to do anything, I can't contentedly enjoy it, always feeling that I should use this time to do something, that I can't stop learning and improving. I constantly bounce between 'let's enjoy now and think later' and 'regret doing nothing.'
@@ -16,7 +16,7 @@ The brain can be deceptive, words are beautifully woven lies, forgiveness like l
 I'm still diligently reading [The Story of a New Name: Neapolitan Novels 2](https://www.douban.com/doubanapp/dispatch?uri=/book/26986954), and it's infuriating to see the comments section constantly attacking Lenu (one of the main female characters, from whose perspective the novel unfolds). In a novel about female friendship, the comment section is filled with malicious comments. I wonder why people are so keen on judging others' inner thoughts and behaviors, and this judging desire seems similar to a "desire to control" that can be seen in every corner of the internet.
 
 ## 👭Dining and Chatting
-  
+
 Monday evening, I met friends for dinner and chat, celebrating the new year early. That afternoon, the lazy sunlight felt warm on my clothes, making me feel wrapped in something soft. I finally walked that road behind my house that I'd never taken before. I don't know why I was so busy this past year, leaving my neighborhood and surroundings so vague in my mind. That road is quiet, almost empty, a wide and lonely street with half the one-way road available for cycling. Going forward is a long downhill stretch - on a downhill, you just need to maintain direction and you'll keep moving forward. Taking this road to my usual movie theater greatly reduces travel time. There's a school at the end of the road, with an abandoned building across from it. No one knows its history; everyone just passes by.
 
 For convenience and safety, I use "Snoopy" as my name for deliveries. Walking back home via that back road to get a package, I stared at the three characters "史努力" (a misspelling of Snoopy in Chinese) on the delivery bag and fell into contemplation, then laughed helplessly. Sometimes, typos can bring us infinite joy.

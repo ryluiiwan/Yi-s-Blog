@@ -1,12 +1,12 @@
 ---
-title: 'S01E02: A Week of Lying Flat and Doing Sit-ups Repeatedly'
+title: "S01E02: A Week of Lying Flat and Doing Sit-ups Repeatedly"
 date: "2024-12-29T14:26:42+08:00"
-draft: false
+draft: true
 lastmod: "2024-12-29T14:26:42+08:00"
 tags: ["Blog", "Life"]
 categories: ["thinking"]
 authors:
-- "ryluiiwan"
+  - "ryluiiwan"
 ---
 
 This month, I've been deeply troubled by noise from upstairs neighbors - heavy and sometimes sharp footsteps constantly coming from above. Whether at six or seven in the morning or midnight, you never know when that unique "noise" will suddenly appear, greatly reducing sleep quality. Already sensitive to sound, I'm becoming increasingly so, and am currently seeking various solutions.
@@ -47,15 +47,15 @@ Some recently finished and current reads, movies, and articles
 
 ### ⭐Reading: Recent Reads
 
-- [The Surrender Experiment](https://book.douban.com/subject/30384422/)  ✅
-- [My Brilliant Friend: Neapolitan Novels 1](https://book.douban.com/subject/26878124/)  ✅
-- [The Story of a New Name: Neapolitan Novels 2](https://book.douban.com/subject/26986954/)  🔋
+- [The Surrender Experiment](https://book.douban.com/subject/30384422/) ✅
+- [My Brilliant Friend: Neapolitan Novels 1](https://book.douban.com/subject/26878124/) ✅
+- [The Story of a New Name: Neapolitan Novels 2](https://book.douban.com/subject/26986954/) 🔋
 
 ### 📺Films & TV: Recent Watches
 
-- [The Wrong Thing](https://movie.douban.com/subject/36401937/)  ✅
-- [Toxic Lawyer](https://www.bilibili.com/bangumi/play/ep755419)  ✅
-- [The Durrells Season 1](https://www.bilibili.com/bangumi/play/ss40523)  🔋
+- [The Wrong Thing](https://movie.douban.com/subject/36401937/) ✅
+- [Toxic Lawyer](https://www.bilibili.com/bangumi/play/ep755419) ✅
+- [The Durrells Season 1](https://www.bilibili.com/bangumi/play/ss40523) 🔋
 
 ### 🎨Videos: YouTube/Bilibili
 

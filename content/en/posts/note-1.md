@@ -1,7 +1,7 @@
 ---
 title: "In November, I Started My 24th Year"
 date: 2024-12-07T12:11:08+08:00
-draft: false
+draft: true
 lastmod: 2024-12-07T12:11:08+08:00
 tags: ["Blog"]
 categories: ["thinking"]

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ai on Ryluiiwan</title>
     <link>http://localhost:1313/zh/tag/ai/</link>
@@ -13,7 +13,9 @@
       <link>http://localhost:1313/zh/2025/09/29/ai-avatar-generator/</link>
       <pubDate>Mon, 29 Sep 2025 21:16:31 +0800</pubDate>
       <guid>http://localhost:1313/zh/2025/09/29/ai-avatar-generator/</guid>
-      <description>1 小时快速构建自己的 AI 小工具，此项目参考Andy 四海为家的教程，使用 Next.js 框架、最后 Vercel 部署上线，全部使用 Claude Sonnet4 完成，不用写一句代码。 🎇1. 主要功能</description>
+      <description>&lt;p&gt;1 小时快速构建自己的 AI 小工具，此项目参考&lt;a href=&#34;https://andyroamer.com/articles/ai-code-claude-website&#34;&gt;Andy 四海为家&lt;/a&gt;的教程，使用 Next.js 框架、最后 Vercel 部署上线，全部使用 &lt;a href=&#34;https://claude.ai/&#34;&gt;Claude Sonnet4&lt;/a&gt; 完成，不用写一句代码。&lt;/p&gt;
+&lt;h2 id=&#34;1-主要功能&#34;&gt;🎇1. 主要功能：&lt;/h2&gt;
+&lt;p&gt;用户输入关键词并选择想要的图片风格(卡通动漫、Q 版头像、赛博朋克、蒸汽波、像素风、Emoji)调用 SD3 的 API 来生成头像，用户可以选择两种图片格式来下载生成的头像。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

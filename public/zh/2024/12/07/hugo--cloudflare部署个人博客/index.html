@@ -1,134 +1,273 @@
 <!DOCTYPE html>
-<html lang="zh" itemscope itemtype="http://schema.org/WebPage">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta name="generator" content="Hugo 0.128.2" />
-  <meta charset="utf-8">
-  <title>Hugo &#43; Cloudflare部署个人博客 · Ryluiiwan</title><meta
-  name="viewport"
-  content="width=device-width, initial-scale=1, shrink-to-fit=no"
-/>
-<meta name="description" content="之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还" />
- <meta
-  name="keywords"
-  content="marketing, programming, python, blog"
-/>
+<html lang="zh" dir="auto" data-theme="auto">
 
-<link rel="canonical" href="http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" />
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Hugo &#43; Cloudflare部署个人博客 | Ryluiiwan</title>
+<meta name="keywords" content="Blog, hugo">
+<meta name="description" content="之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b3506984adac2d9c2c3e6cdf97c7ebd68776f94b1f96f63823580669e179963b.css" integrity="sha256-s1BphK2sLZwsPmzfl8fr1od2&#43;UsflvY4I1gGaeF5ljs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">
+  <meta property="og:site_name" content="Ryluiiwan">
+  <meta property="og:title" content="Hugo &#43; Cloudflare部署个人博客">
+  <meta property="og:description" content="之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-12-07T12:11:08+08:00">
+    <meta property="article:modified_time" content="2024-12-07T12:11:08+08:00">
+    <meta property="article:tag" content="Blog">
+    <meta property="article:tag" content="Hugo">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Hugo &#43; Cloudflare部署个人博客">
+  <meta name="twitter:description" content="之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。">
 
 
-
-
-
-<link rel="stylesheet" href="/css/bootstrap.min.css" />
-<link
-  rel="stylesheet"
-  href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
-  integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
-  crossorigin="anonymous"
-/>
-<link rel="stylesheet" href="http://localhost:1313/css/den.css">  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">  
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "http://localhost:1313/zh/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Hugo + Cloudflare部署个人博客",
+      "item": "http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Hugo + Cloudflare部署个人博客",
+  "name": "Hugo \u002b Cloudflare部署个人博客",
+  "description": "之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。\n",
+  "keywords": [
+    "Blog", "hugo"
+  ],
+  "articleBody": "之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。\n这次也想看看我能不能把这件事，从头到尾做完，并不断完善。准备开始折腾，顺便捡起本科的渣渣编程基础。有天在搜索 Hugo 的时候突然看到了pseudoyu大佬做的博客，故按照他的教程来搞一个静态博客，做一个自己的网络自留地。\n📍 安装 Hugo 系统：Windows10\n下载 Hugo 打开 Hugo 官方 GitHub Release 页面。 找到最新版本，下载适合 Windows 的二进制文件： 如果你的 Windows 是 64 位，选择 hugo_extended_x.y.z_Windows-64bit.zip（x.y.z 是版本号） 如果不需要扩展功能（如 SCSS 支持），也可以选择普通的 hugo_x.y.z_Windows-64bit.zip 解压文件 将下载的 ZIP 文件解压到一个文件夹，例如 D:\\hugo 你应该能在bin文件夹中看到一个 hugo.exe 文件 配置环境变量 打开系统环境变量设置： 在搜索栏中输入 “环境变量”，选择 “编辑系统环境变量” 点击 “环境变量” 按钮 添加 Hugo 到 PATH： 在 系统变量 下找到 Path，选中后点击 编辑 点击 新建，输入 Hugo 的路径，例如：D:\\hugo\\bin 点击 确定，保存所有设置 验证安装 打开命令提示符（cmd），输入以下命令： hugo version 如果安装成功，你会看到类似下面的输出： hugo v0.128.2-de36c1a95d28595d8243fd8b891665b069ed0850+extended windows/amd64 BuildDate=2024-07-04T08:13:25Z VendorInfo=gohugoio 初始化站点 创建新项目 hugo new site ryluiiwan.com 进入项目目录 cd ryluiiwan.com 初始化 git 仓库 创建好的项目是没有被 Git 管理的，所以需要初始化 Git 仓库\n初始化一个新的 git 仓库 git init 将工作区中所有的更改添加到暂存区（Staging Area） git add . 提交你在暂存区中的更改到本地仓库，并为这个提交添加一条描述信息 git commit -m \"first commit\" 重命名当前分支为 main, git branch -M main 将远程仓库关联到本地仓库 git remote add origin git@github.com:ryluiiwan/ryluiiwan.com.git 引用主题 下载den主题：克隆了pseudoyu的博客项目 git submodule add https://github.com/pseudoyu/hugo-theme-den themes/hugo-theme-den 初始化 git submodule update --init --recursive 开始使用主题时将其 exampleSite/ 目录下的文件复制到站点目录下，在此基础上进行调整配置。 cp -rf themes/hugo-theme-den/exampleSite/* ./ 然后修改 Hugo 的配置(hugo.toml)\n修改后，在本地启动服务，可以访问 http://localhost:1313/ 来查看网站\nhugo server 📍 发布博客工作流程 创建新的博客文件 新创建的文章默认会放在content目录下，文章的头信息可以修改archetypes/default.md这个模板。\n我的文章模板是：\n--- title: '{{ replace .File.ContentBaseName \"-\" \" \" | title }}' date: \"{{ .Date }}\" draft: true lastmod: \"{{ .Date }}\" tags: [\"Blog\"] categories: [\"thinking\"] authors: - \"ryluiiwan\" --- hugo new posts/blog.md 上传到 Git 仓库，Cloudflare 会自动部署 git add . #将文件提交到暂存区 git commit -m \"update\" git push 另外上传的时候有的时候出现：Git 报错 Failed to connect to github.com port 443\n✨ 记录一下解决方案: 查看自己电脑中的系统代理端口号，改一下127.0.0.1后的端口号\ngit config --global http.proxy 127.0.0.1:8087 📍 购买域名\u0026Cloudflare 部署 域名购买我大概看了GoDaddy、NameSilo、Cloudflare。因为这个字符串ryluiiwan我已经用了很久，所以选定了网域之后，对比了不同平台的价格 ，选择了最便宜的Cloudflare，一年$10.44。但Cloudflare不支持国内支付宝等支付方式，最后在闲鱼上找了一个 visa 代付，也算是成功解决了这个问题。\nCloudflare Pages 构建博客 Cloudflare Pages 是 Cloudflare 推出的静态网站托管服务，可以直接连接 Github 仓库，完成自动化部署。 添加 DNS 解析 Reference ChatGPT\nHugo + GitHub Action，搭建你的博客自动发布系统\n",
+  "wordCount" : "1346",
+  "inLanguage": "zh",
+  "datePublished": "2024-12-07T12:11:08+08:00",
+  "dateModified": "2024-12-07T12:11:08+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/zh/2024/12/07/hugo--cloudflare%E9%83%A8%E7%BD%B2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ryluiiwan",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
 </head>
-<body>
-  
-  <div class="header-container" style="background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('http://localhost:1313/images/background2.jpg'); background-position: center; background-size: cover;">
-  <div class="container">
-  <nav class="header-nav navbar navbar-expand-md navbar-dark light-dark">
-    <div class="header-logo navbar-brand">
-      
-        <a class="float-left" href="http://localhost:1313/zh/">
-      
-        
-        <img class="mr20 header-logo-image" src="http://localhost:1313/images/header.png" alt="logo">
-        
-        
-          RYLUIIWAN
-         
-      </a>
-    </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="nav-menu collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        
-          <li class="nav-item">
-            
-              
-                <a class="nav-link" href="http://localhost:1313/zh/category/thinking/">思考</a>
-              
-            
-          </li>
-        
-          <li class="nav-item">
-            
-              
-                <a class="nav-link" href="http://localhost:1313/zh/category/learning">学习</a>
-              
-            
-          </li>
-        
-          <li class="nav-item">
-            
-              
-                <a class="nav-link" href="http://localhost:1313/zh/category/tools/">工具</a>
-              
-            
-          </li>
-        
-          <li class="nav-item">
-            
-              <a class="nav-link" href="http://localhost:1313/zh/about/">关于</a>
-            
-          </li>
-        
-        
-          
-            <li class="nav-item">
-              <a class="nav-link" href="http://localhost:1313/en/"><i class="fas fa-globe"></i> English</a>
+<body id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/zh/" accesskey="h" title="Ryluiiwan (Alt + H)">Ryluiiwan</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button><span>|</span>
+                    <ul class="lang-menu">
+                        <li>
+                            <a href="http://localhost:1313/" title="English"
+                                aria-label="English">En</a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/zh/" title="首页">
+                    <span>首页</span>
+                </a>
             </li>
-          
-          
-          
-          
-        
-      </ul>
-    </div>
-  </nav>
+            <li>
+                <a href="http://localhost:1313/zh/category/thinking/" title="思考">
+                    <span>思考</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/zh/category/tools/" title="工具">
+                    <span>工具</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/zh/category/learning/" title="学习">
+                    <span>学习</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/zh/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/zh/about/" title="关于">
+                    <span>关于</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/zh/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+    <a href='http://localhost:1313/zh/'>主页</a>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+                <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+            <a href="http://localhost:1313/zh/posts/">Posts</a></nav>
+    <h1 class="post-title entry-hint-parent">
+      Hugo &#43; Cloudflare部署个人博客
+    </h1>
+    <div class="post-meta"><span title='2024-12-07 12:11:08 +0800 CST'>2024-12-07</span>&nbsp;·&nbsp;<span>3 分钟</span>&nbsp;·&nbsp;<span>1346 字</span>
+
 </div>
+  </header> <details class="toc" >
+    <summary accesskey="c" title="(Alt + C)">
+        <span class="title">目录</span>
+    </summary>
 
-<div class="container header-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
-      <div class="header-content">
-        <h1 class="header-title">Hugo &#43; Cloudflare部署个人博客</h1>
-        <p class="header-date">作者： Nuoyi Lu  
-          | <span>1346 字| 3 分钟 |</span>
-           发表于 2024-12-07 |
-          分类： <a href="http://localhost:1313/zh/category/tools/">tools</a>
-        </p>
-        
-        <div class="header-underline"></div>
-        
-        <div class="clearfix"></div>
-        <p class="float-right header-tags">
-          <i class="fas fa-tags" aria-hidden="true"></i>
-          <a href="http://localhost:1313/zh/tag/blog/">Blog</a>, <a href="http://localhost:1313/zh/tag/hugo/">hugo</a>
-        </p>
-         
-
-      </div>
+    <div class="inner"><ul>
+            <li>
+                <a href="#-%e5%ae%89%e8%a3%85-hugo" aria-label="📍 安装 Hugo">📍 安装 Hugo</a><ul>
+                    
+            <li>
+                <a href="#%e4%b8%8b%e8%bd%bd-hugo" aria-label="下载 Hugo">下载 Hugo</a></li>
+            <li>
+                <a href="#%e8%a7%a3%e5%8e%8b%e6%96%87%e4%bb%b6" aria-label="解压文件">解压文件</a></li>
+            <li>
+                <a href="#%e9%85%8d%e7%bd%ae%e7%8e%af%e5%a2%83%e5%8f%98%e9%87%8f" aria-label="配置环境变量">配置环境变量</a></li>
+            <li>
+                <a href="#%e9%aa%8c%e8%af%81%e5%ae%89%e8%a3%85" aria-label="验证安装">验证安装</a></li>
+            <li>
+                <a href="#%e5%88%9d%e5%a7%8b%e5%8c%96%e7%ab%99%e7%82%b9" aria-label="初始化站点">初始化站点</a></li>
+            <li>
+                <a href="#%e5%88%9d%e5%a7%8b%e5%8c%96-git-%e4%bb%93%e5%ba%93" aria-label="初始化 git 仓库">初始化 git 仓库</a></li>
+            <li>
+                <a href="#%e5%bc%95%e7%94%a8%e4%b8%bb%e9%a2%98" aria-label="引用主题">引用主题</a></li></ul>
+            </li>
+            <li>
+                <a href="#-%e5%8f%91%e5%b8%83%e5%8d%9a%e5%ae%a2%e5%b7%a5%e4%bd%9c%e6%b5%81%e7%a8%8b" aria-label="📍 发布博客工作流程">📍 发布博客工作流程</a></li>
+            <li>
+                <a href="#-%e8%b4%ad%e4%b9%b0%e5%9f%9f%e5%90%8dcloudflare-%e9%83%a8%e7%bd%b2" aria-label="📍 购买域名&amp;Cloudflare 部署">📍 购买域名&amp;Cloudflare 部署</a><ul>
+                    
+            <li>
+                <a href="#cloudflare-pages-%e6%9e%84%e5%bb%ba%e5%8d%9a%e5%ae%a2" aria-label="Cloudflare Pages 构建博客">Cloudflare Pages 构建博客</a></li>
+            <li>
+                <a href="#%e6%b7%bb%e5%8a%a0-dns-%e8%a7%a3%e6%9e%90" aria-label="添加 DNS 解析">添加 DNS 解析</a></li>
+            <li>
+                <a href="#reference" aria-label="Reference">Reference</a>
+            </li>
+        </ul>
+        </li>
+        </ul>
     </div>
-  </div>
-</div>
+</details>
 
-  </div>
-  <main>
-<div class="container content">
-  <article><p>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。</p>
+  <div class="post-content md-content"><p>之前尝试过很多次自己搭建个人博客，总是无疾而终，没有耐性、三心二意应该是我最大的缺点。最近裸辞休养生息还是觉得要做点什么，还是来完成我 22 年还是 23 年就想做的事情，创建一个个人博客。很多事情对我来说，我很难坚持从头到尾做完，没有强烈的热情，总是想一出是一出。</p>
 <p>这次也想看看我能不能把这件事，从头到尾做完，并不断完善。准备开始折腾，顺便捡起本科的渣渣编程基础。有天在搜索 Hugo 的时候突然看到了<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">pseudoyu</a>大佬做的博客，故按照他的教程来搞一个静态博客，做一个自己的网络自留地。</p>
-<h2 id="-安装-hugo">📍 安装 Hugo</h2>
+<h2 id="-安装-hugo">📍 安装 Hugo<a hidden class="anchor" aria-hidden="true" href="#-安装-hugo">#</a></h2>
 <p>系统：<code>Windows10</code></p>
-<h3 id="下载-hugo">下载 Hugo</h3>
+<h3 id="下载-hugo">下载 Hugo<a hidden class="anchor" aria-hidden="true" href="#下载-hugo">#</a></h3>
 <ul>
 <li>打开 <a href="https://github.com/gohugoio/hugo/releases">Hugo 官方 GitHub Release 页面</a>。</li>
 <li>找到最新版本，下载适合 Windows 的二进制文件：
@@ -138,12 +277,12 @@
 </ul>
 </li>
 </ul>
-<h3 id="解压文件">解压文件</h3>
+<h3 id="解压文件">解压文件<a hidden class="anchor" aria-hidden="true" href="#解压文件">#</a></h3>
 <ul>
 <li>将下载的 ZIP 文件解压到一个文件夹，例如 <code>D:\hugo</code></li>
 <li>你应该能在<code>bin</code>文件夹中看到一个 <code>hugo.exe</code> 文件</li>
 </ul>
-<h3 id="配置环境变量">配置环境变量</h3>
+<h3 id="配置环境变量">配置环境变量<a hidden class="anchor" aria-hidden="true" href="#配置环境变量">#</a></h3>
 <ul>
 <li><strong>打开系统环境变量设置：</strong>
 <ul>
@@ -159,7 +298,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="验证安装">验证安装</h3>
+<h3 id="验证安装">验证安装<a hidden class="anchor" aria-hidden="true" href="#验证安装">#</a></h3>
 <ul>
 <li>打开命令提示符（<code>cmd</code>），输入以下命令：</li>
 </ul>
@@ -168,7 +307,7 @@
 <li>如果安装成功，你会看到类似下面的输出：</li>
 </ul>
 <pre tabindex="0"><code>hugo v0.128.2-de36c1a95d28595d8243fd8b891665b069ed0850+extended windows/amd64 BuildDate=2024-07-04T08:13:25Z VendorInfo=gohugoio
-</code></pre><h3 id="初始化站点">初始化站点</h3>
+</code></pre><h3 id="初始化站点">初始化站点<a hidden class="anchor" aria-hidden="true" href="#初始化站点">#</a></h3>
 <ul>
 <li>创建新项目</li>
 </ul>
@@ -177,7 +316,7 @@
 <li>进入项目目录</li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="nb">cd</span> ryluiiwan.com
-</span></span></code></pre></div><h3 id="初始化-git-仓库">初始化 git 仓库</h3>
+</span></span></code></pre></div><h3 id="初始化-git-仓库">初始化 git 仓库<a hidden class="anchor" aria-hidden="true" href="#初始化-git-仓库">#</a></h3>
 <p>创建好的项目是没有被 Git 管理的，所以需要初始化 Git 仓库</p>
 <ul>
 <li>初始化一个新的 git 仓库</li>
@@ -199,7 +338,7 @@
 <li>将远程仓库关联到本地仓库</li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git remote add origin git@github.com:ryluiiwan/ryluiiwan.com.git
-</span></span></code></pre></div><h3 id="引用主题">引用主题</h3>
+</span></span></code></pre></div><h3 id="引用主题">引用主题<a hidden class="anchor" aria-hidden="true" href="#引用主题">#</a></h3>
 <ul>
 <li>下载<code>den</code>主题：克隆了<a href="https://github.com/pseudoyu/hugo-theme-den">pseudoyu</a>的博客项目</li>
 </ul>
@@ -221,7 +360,7 @@
 </li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">hugo server
-</span></span></code></pre></div><h2 id="-发布博客工作流程">📍 发布博客工作流程</h2>
+</span></span></code></pre></div><h2 id="-发布博客工作流程">📍 发布博客工作流程<a hidden class="anchor" aria-hidden="true" href="#-发布博客工作流程">#</a></h2>
 <ul>
 <li>创建新的博客文件</li>
 </ul>
@@ -247,14 +386,14 @@
 </span></span></code></pre></div><p>另外上传的时候有的时候出现：Git 报错<code> Failed to connect to github.com port 443</code></p>
 <p>✨ 记录一下解决方案: 查看自己电脑中的系统代理端口号，改一下<code>127.0.0.1后的端口号</code></p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">git config --global http.proxy 127.0.0.1:8087
-</span></span></code></pre></div><h2 id="-购买域名cloudflare-部署">📍 购买域名&amp;Cloudflare 部署</h2>
+</span></span></code></pre></div><h2 id="-购买域名cloudflare-部署">📍 购买域名&amp;Cloudflare 部署<a hidden class="anchor" aria-hidden="true" href="#-购买域名cloudflare-部署">#</a></h2>
 <p>域名购买我大概看了<a href="https://godaddy.com/">GoDaddy</a>、<a href="https://www.namesilo.com/">NameSilo</a>、<a href="https://www.cloudflare.com/">Cloudflare</a>。因为这个字符串<code>ryluiiwan</code>我已经用了很久，所以选定了网域之后，对比了不同平台的价格
 ，选择了最便宜的<a href="https://www.cloudflare.com/">Cloudflare</a>，一年$10.44。但<code>Cloudflare</code>不支持国内支付宝等支付方式，最后在闲鱼上找了一个 visa 代付，也算是成功解决了这个问题。</p>
-<h3 id="cloudflare-pages-构建博客">Cloudflare Pages 构建博客</h3>
+<h3 id="cloudflare-pages-构建博客">Cloudflare Pages 构建博客<a hidden class="anchor" aria-hidden="true" href="#cloudflare-pages-构建博客">#</a></h3>
 <p>Cloudflare Pages 是 Cloudflare 推出的静态网站托管服务，可以直接连接 Github 仓库，完成自动化部署。
-<img alt="创建pages" src="static/images/p1.jpg" title="Cloudflare pages创建"></p>
-<h3 id="添加-dns-解析">添加 DNS 解析</h3>
-<h3 id="reference">Reference</h3>
+<img alt="创建pages" loading="lazy" src="static/images/p1.jpg" title="Cloudflare pages创建"></p>
+<h3 id="添加-dns-解析">添加 DNS 解析<a hidden class="anchor" aria-hidden="true" href="#添加-dns-解析">#</a></h3>
+<h3 id="reference">Reference<a hidden class="anchor" aria-hidden="true" href="#reference">#</a></h3>
 <ul>
 <li>
 <p><a href="https://chatgpt.com/">ChatGPT</a></p>
@@ -263,260 +402,225 @@
 <p><a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/">Hugo + GitHub Action，搭建你的博客自动发布系统</a></p>
 </li>
 </ul>
-</article>
 
-     <div class="author-card">
-    <div class="underline"></div>
-    <div class="author-box">
-      <div class="author-image"><a href="https://ryluiiwan.com"><img src="/images/author.png" alt="Nuoyi Lu" /></a></div>
-      <div class="author-content">
-      <p class="author-title">作者</p>
-      <p class="author-name">Nuoyi Lu</p>
-      <p class="author-desc">闭关充电中: )</p>
-      </div>
-    </div>
-  </div>   <head>
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-  />
-</head>
 
-<body>
-  <div id="waline"></div>
-  <script type="module">
-    import { init } from "https://unpkg.com/@waline/client@v2/dist/waline.mjs";
-
-    init({
-      el: "#waline",
-      serverURL: "https://my-blog-comment-ten.vercel.app/",
-      lang: "zh-CN",
-      meta: [], 
-      requiredMeta: [], 
-      
-      wordLimit: 500,
-      search: false,
-      pageview: true,
-      emoji: [
-        
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji",
-        
-        "//unpkg.com/@waline/emojis@1.2.0/qq",
-        "//unpkg.com/@waline/emojis@1.2.0/alus",
-        "//unpkg.com/@waline/emojis@1.1.0/bilibili",
-        "https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs",
-      ],
-      dark: 'html[class="scroll-smooth dark"]',
-    });
-  </script>
-
-  <style>
-     
-    :root {
-       
-      --waline-font-size: 16px;
-
-       
-      --waline-white: #fff;
-       
-      --waline-light-grey: #999;
-       
-      --waline-dark-grey: #666;
-
-       
-      --waline-theme-color: #e098ae;
-       
-      --waline-active-color: #b1d3c5;
-
-       
-      --waline-color: #222;
-       
-      --waline-bgcolor: #fff;
-       
-      --waline-bgcolor-light: #f8f8f8;
-       
-      --waline-bgcolor-hover: #2ecc71;
-       
-      --waline-border-color: #ddd;
-       
-      --waline-disable-bgcolor: rgba(248, 248, 248, 0.4);
-       
-      --waline-disable-color: #bbb;
-       
-      --waline-code-bgcolor: #282c34;
-
-       
-      --waline-bq-color: #f0f0f0;
-
-       
-      --waline-avatar-size: 3.25rem;
-       
-      --waline-m-avatar-size: calc(var(--waline-avatar-size) * 9 / 13);
-
-       
-      --waline-badge-color: #83b1c9;
-       
-      --waline-badge-font-size: 12px;
-
-       
-      --waline-info-border: 1px solid #999;
-       
-      --waline-info-color: #999;
-       
-      --waline-info-font-size: 16px;
-       
-      --waline-info-bgcolor: rgba(235, 235, 235, 0.4);
-
-       
-      --waline-border: 1px solid var(--waline-border-color);
-       
-      --waline-avatar-radius: 50%;
-       
-      --waline-box-shadow: none;
-    }
-
-     
-    html[class="scroll-smooth dark"] {
-       
-      --waline-white: #000;
-       
-      --waline-light-grey: #999;
-       
-       
-      --waline-dark-grey: #999;
-
-       
-      --waline-color: #c2c2c2;
-       
-      --waline-bgcolor: #1e293b;
-       
-      --waline-bgcolor-light: #2a354f;
-       
-      --waline-border-color: #666;
-       
-      --waline-disable-bgcolor: rgba(68, 68, 68, 0.8);
-       
-      --waline-disable-color: #888;
-
-       
-      --waline-bq-color: #1f2d4b;
-
-       
-      --waline-info-bgcolor: rgba(31, 45, 75, 0.8);
-       
-      --waline-info-color: #888;
-       
-      --waline-info-border: 1px solid #d3d3d3;
-    }
-  </style>
-</body>
-
-</div>
-
-  </main><div class="footer gradient-2">
-  <div class="container footer-container">
-    <div class="row">
-      <div class="col-xs-4 col-sm-3 col-md-3 col-lg-3">
-        <div class="footer-title">网站地图</div>
-        <ul class="list-unstyled">
-           
-          <li><a href="http://localhost:1313/zh/tags/">标签</a></li>
-           
-          <li><a href="http://localhost:1313/zh/categories/">分类</a></li>
-             
-          <li>
-            <a
-              rel="alternate"
-              type="application/rss&#43;xml"
-              href="http://localhost:1313/zh/index.xml"
-              ><i class="fas fa-rss-square"></i> RSS订阅</a
-            >
-          </li>
-            
-        </ul>
-      </div>
-      <div class="col-xs-4 col-sm-3 col-md-3 col-lg-3">
-        
-        <div class="footer-title">社群</div>
-        <ul class="list-unstyled">
-          
-          <li>
-            <a href="mailto:ryluiiwan348@gmail.com" rel="noopener" target="_blank"
-              >Email</a
-            >
-          </li>
-          
-          <li>
-            <a href="https://www.instagram.com/oyeahshalala/" rel="noopener" target="_blank"
-              >instagram</a
-            >
-          </li>
-          
-          <li>
-            <a href="https://x.com/Lunuoyi" rel="noopener" target="_blank"
-              >Twitter</a
-            >
-          </li>
-          
-        </ul>
-        
-      </div>
-      <div class="col-xs-4 col-sm-3 col-md-3 col-lg-3">
-        
-        <div class="footer-title">友链</div>
-        <ul class="list-unstyled">
-          
-          <li>
-            <a href="https://github.com/ryluiiwan" rel="noopener" target="_blank"
-              >Yi&#39;s GitHub</a
-            >
-          </li>
-          
-        </ul>
-        
-      </div>
-      <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-        <p class="pull-right text-right">
-          <small
-            ><em
-              >Proudly powered by
-              <a href="https://gohugo.io/" rel="noopener" target="_blank"
-                >Hugo</a
-              ></em
-            ></small
-          ><br />
-          <small
-            ><em
-              >Theme -
-              <a
-                href="https://github.com/shaform/hugo-theme-den"
-                rel="noopener"
-                target="_blank"
-                >Den</a
-              ></em
-            ></small
-          ><br />
-          <small>
-            &copy; Nuoyi Lu  2024 - 2025
-          </small>
-          
-        </p>
-      </div>
-    </div>
   </div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    mediumZoom(".content img, article img", {
-      background: "rgba(0,0,0,0.8)",
-      margin: 24,
-    });
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/zh/tag/blog/">Blog</a></li>
+      <li><a href="http://localhost:1313/zh/tag/hugo/">Hugo</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="http://localhost:1313/zh/2024/12/22/01-recently-life/">
+    <span class="title">« 上一页</span>
+    <span>#01: 最近都在干什么流水账日记</span>
+  </a>
+  <a class="next" href="http://localhost:1313/zh/2024/12/07/%E5%9C%A811%E6%9C%88%E5%BC%80%E5%A7%8B%E4%BA%86%E6%88%91%E7%9A%8424%E5%B2%81/">
+    <span class="title">下一页 »</span>
+    <span>在11月，开始了我的24岁</span>
+  </a>
+</nav>
+
+  </footer>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
+<div id="waline"></div>
+<script type="module">
+  import { init } from "https://unpkg.com/@waline/client@v2/dist/waline.mjs";
+
+  init({
+    el: "#waline",
+    serverURL: "https://my-blog-comment-ten.vercel.app/",
+    lang: "zh-CN",
+    meta: [],
+    requiredMeta: [],
+    wordLimit: 500,
+    search: false,
+    pageview: true,
+    emoji: [
+      "//unpkg.com/@waline/emojis@1.2.0/bmoji",
+      "//unpkg.com/@waline/emojis@1.2.0/qq",
+      "//unpkg.com/@waline/emojis@1.2.0/alus",
+      "//unpkg.com/@waline/emojis@1.1.0/bilibili",
+      "https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs",
+    ],
+    dark: 'html[data-theme="dark"]',
   });
 </script>
-<script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="/js/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+<style>
+  :root {
+    --waline-font-size: 16px;
+    --waline-white: #fff;
+    --waline-light-grey: #999;
+    --waline-dark-grey: #666;
+    --waline-theme-color: #e098ae;
+    --waline-active-color: #b1d3c5;
+    --waline-color: #222;
+    --waline-bgcolor: #fff;
+    --waline-bgcolor-light: #f8f8f8;
+    --waline-bgcolor-hover: #2ecc71;
+    --waline-border-color: #ddd;
+    --waline-disable-bgcolor: rgba(248, 248, 248, 0.4);
+    --waline-disable-color: #bbb;
+    --waline-code-bgcolor: #282c34;
+    --waline-bq-color: #f0f0f0;
+    --waline-avatar-size: 3.25rem;
+    --waline-m-avatar-size: calc(var(--waline-avatar-size) * 9 / 13);
+    --waline-badge-color: #83b1c9;
+    --waline-badge-font-size: 12px;
+    --waline-info-border: 1px solid #999;
+    --waline-info-color: #999;
+    --waline-info-font-size: 16px;
+    --waline-info-bgcolor: rgba(235, 235, 235, 0.4);
+    --waline-border: 1px solid var(--waline-border-color);
+    --waline-avatar-radius: 50%;
+    --waline-box-shadow: none;
+  }
+
+  html[data-theme="dark"] {
+    --waline-white: #000;
+    --waline-light-grey: #999;
+    --waline-dark-grey: #999;
+    --waline-color: #c2c2c2;
+    --waline-bgcolor: #1d1e20;
+    --waline-bgcolor-light: #2a2b2e;
+    --waline-border-color: #666;
+    --waline-disable-bgcolor: rgba(68, 68, 68, 0.8);
+    --waline-disable-color: #888;
+    --waline-bq-color: #272829;
+    --waline-info-bgcolor: rgba(45, 46, 48, 0.8);
+    --waline-info-color: #888;
+    --waline-info-border: 1px solid #d3d3d3;
+  }
+</style>
+
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/zh/">Ryluiiwan</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = '复制';
+
+        function copyingDone() {
+            copybutton.innerHTML = '已复制！';
+            setTimeout(() => {
+                copybutton.innerHTML = '复制';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
 </body>
+
 </html>
