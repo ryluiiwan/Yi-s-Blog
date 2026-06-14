@@ -45,7 +45,7 @@ defaultContentLanguageInSubdir = true
 
   [params.homeInfoParams]
     Title = "RYLUIIWAN"
-    Content = "Impact-Site-Verification: e565516b-455f-49f6-b260-f6ebe8f25efc\n\nBe better"
+    Content = "Be better"
 
   [[params.socialIcons]]
     name = "instagram"
@@ -104,7 +104,7 @@ defaultContentLanguageInSubdir = true
 
     [languages.zh.params.homeInfoParams]
       Title = "RYLUIIWAN"
-      Content = "Impact-Site-Verification: e565516b-455f-49f6-b260-f6ebe8f25efc\n\nBe better"
+      Content = "Be better"
 
   [[languages.zh.menu.main]]
     name = "首页"
@@ -147,7 +147,7 @@ defaultContentLanguageInSubdir = true
 
     [languages.en.params.homeInfoParams]
       Title = "RYLUIIWAN"
-      Content = "Impact-Site-Verification: e565516b-455f-49f6-b260-f6ebe8f25efc\n\nBe better"
+      Content = "Be better"
 
   [[languages.en.menu.main]]
     name = "Home"
