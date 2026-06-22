@@ -23,9 +23,18 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-06-21 06:46:43_
+_Last update: 2026-06-22 07:18:48_
 
-
+- [看过给阿嬷的情书](https://movie.douban.com/subject/37116446/)  (2026-04-28)
+- [读过挽救计划](https://book.douban.com/subject/35494160/)  (2026-04-22)
+- [看过少年法庭 第一季](https://movie.douban.com/subject/35248792/)  (2026-04-18)
+- [看过莎拉的真伪人生](https://movie.douban.com/subject/37019235/)  (2026-04-18)
+- [看过我，许可](https://movie.douban.com/subject/37332784/)  (2026-04-18)
+- [看过良医 第七季](https://movie.douban.com/subject/36370737/)  (2026-04-12)
+- [看过良医 第六季](https://movie.douban.com/subject/35840681/)  (2026-04-12)
+- [看过良医 第五季](https://movie.douban.com/subject/35451920/)  (2026-04-12)
+- [看过良医 第四季](https://movie.douban.com/subject/34965846/)  (2026-04-12)
+- [看过良医 第三季](https://movie.douban.com/subject/30454230/)  (2026-04-12)
 
 <!-- douban end -->
 
