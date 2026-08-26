@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-08-25 02:53:09_
+_Last update: 2026-08-26 02:58:54_
 
 - [读过控糖革命](https://book.douban.com/subject/36707112/)  (2026-08-08)
 - [读过我人生最开始的好朋友](https://book.douban.com/subject/37124146/)  (2026-08-08)
