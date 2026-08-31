@@ -23,8 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-08-30 07:46:10_
+_Last update: 2026-08-31 08:00:39_
 
+- [读过源泉（珍藏版）](https://book.douban.com/subject/34942548/)  (2026-08-30)
 - [读过控糖革命](https://book.douban.com/subject/36707112/)  (2026-08-08)
 - [读过我人生最开始的好朋友](https://book.douban.com/subject/37124146/)  (2026-08-08)
 - [读过数学觉醒](https://book.douban.com/subject/38368705/)  (2026-08-08)
@@ -34,7 +35,6 @@ _Last update: 2026-08-30 07:46:10_
 - [看过莎拉的真伪人生](https://movie.douban.com/subject/37019235/)  (2026-04-18)
 - [看过我，许可](https://movie.douban.com/subject/37332784/)  (2026-04-18)
 - [看过良医 第七季](https://movie.douban.com/subject/36370737/)  (2026-04-12)
-- [看过良医 第六季](https://movie.douban.com/subject/35840681/)  (2026-04-12)
 
 <!-- douban end -->
 
