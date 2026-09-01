@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-08-31 08:00:39_
+_Last update: 2026-09-01 07:07:45_
 
 - [读过源泉（珍藏版）](https://book.douban.com/subject/34942548/)  (2026-08-30)
 - [读过控糖革命](https://book.douban.com/subject/36707112/)  (2026-08-08)
