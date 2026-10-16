@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-10-15 06:52:04_
+_Last update: 2026-10-16 06:39:43_
 
 - [读过存在主义心理治疗](https://book.douban.com/subject/26304954/)  (2026-10-07)
 - [看过逃出绝命镇](https://movie.douban.com/subject/26688480/)  (2026-10-06)
