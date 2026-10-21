@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-10-20 07:02:22_
+_Last update: 2026-10-21 06:55:32_
 
 - [读过隐谷路](https://book.douban.com/subject/35599712/)  (2026-10-18)
 - [读过存在主义心理治疗](https://book.douban.com/subject/26304954/)  (2026-10-07)
