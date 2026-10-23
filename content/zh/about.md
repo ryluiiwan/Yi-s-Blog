@@ -23,8 +23,9 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-10-22 06:59:30_
+_Last update: 2026-10-23 06:51:59_
 
+- [看过绝望写手 第一季](https://movie.douban.com/subject/35445834/)  (2026-10-23)
 - [读过隐谷路](https://book.douban.com/subject/35599712/)  (2026-10-18)
 - [读过存在主义心理治疗](https://book.douban.com/subject/26304954/)  (2026-10-07)
 - [看过逃出绝命镇](https://movie.douban.com/subject/26688480/)  (2026-10-06)
@@ -34,7 +35,6 @@ _Last update: 2026-10-22 06:59:30_
 - [读过数学觉醒](https://book.douban.com/subject/38368705/)  (2026-08-08)
 - [看过给阿嬷的情书](https://movie.douban.com/subject/37116446/)  (2026-04-28)
 - [读过挽救计划](https://book.douban.com/subject/35494160/)  (2026-04-22)
-- [看过少年法庭 第一季](https://movie.douban.com/subject/35248792/)  (2026-04-18)
 
 <!-- douban end -->
 
