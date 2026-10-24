@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-10-23 06:51:59_
+_Last update: 2026-10-24 06:47:58_
 
 - [看过绝望写手 第一季](https://movie.douban.com/subject/35445834/)  (2026-10-23)
 - [读过隐谷路](https://book.douban.com/subject/35599712/)  (2026-10-18)
