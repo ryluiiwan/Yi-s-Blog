@@ -23,8 +23,10 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-10-24 06:47:58_
+_Last update: 2026-10-25 07:11:50_
 
+- [读过情迷佛罗伦萨](https://book.douban.com/subject/24737038/)  (2026-10-24)
+- [看过绝望写手 第二季](https://movie.douban.com/subject/35524211/)  (2026-10-24)
 - [看过绝望写手 第一季](https://movie.douban.com/subject/35445834/)  (2026-10-23)
 - [读过隐谷路](https://book.douban.com/subject/35599712/)  (2026-10-18)
 - [读过存在主义心理治疗](https://book.douban.com/subject/26304954/)  (2026-10-07)
@@ -33,8 +35,6 @@ _Last update: 2026-10-24 06:47:58_
 - [读过控糖革命](https://book.douban.com/subject/36707112/)  (2026-08-08)
 - [读过我人生最开始的好朋友](https://book.douban.com/subject/37124146/)  (2026-08-08)
 - [读过数学觉醒](https://book.douban.com/subject/38368705/)  (2026-08-08)
-- [看过给阿嬷的情书](https://movie.douban.com/subject/37116446/)  (2026-04-28)
-- [读过挽救计划](https://book.douban.com/subject/35494160/)  (2026-04-22)
 
 <!-- douban end -->
 
