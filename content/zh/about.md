@@ -23,7 +23,7 @@ weight: 50
 <!-- douban start -->
 
 ### 📚 最近的豆瓣动态（自动更新）
-_Last update: 2026-11-06 08:51:59_
+_Last update: 2026-11-07 08:11:47_
 
 - [读过情迷佛罗伦萨](https://book.douban.com/subject/24737038/)  (2026-10-24)
 - [看过绝望写手 第二季](https://movie.douban.com/subject/35524211/)  (2026-10-24)
